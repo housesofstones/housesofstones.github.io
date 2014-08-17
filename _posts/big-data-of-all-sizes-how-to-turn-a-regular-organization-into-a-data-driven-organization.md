@@ -1,0 +1,78 @@
+---
+title: 'Big Data of all sizes: how to turn a regular organization into a data-driven organization'
+author: Schaun Wheeler
+layout: post
+permalink: /2012/11/13/big-data-of-all-sizes-how-to-turn-a-regular-organization-into-a-data-driven-organization/
+jabber_published:
+  - 1352837085
+email_notification:
+  - 1352837087
+publicize_twitter_user:
+  - SchaunW
+categories:
+  - Analysis
+  - Data Collection
+  - Dissemination
+  - Implementation
+tags:
+  - Big Data
+  - organizational transformation
+  - technology
+---
+Everyone’s talking about Big Data lately. It’s being [touted][1] as a “revolution” for organizational decision making. I generally think more reliance on data is a very good thing, and I’m glad that people who traditionally haven’t thought much about data are now thinking about it more. That being said, I’ve been struck at the differences between the ways the actual term *Big Data* seems to be used by practitioners, as opposed to the ways the term is used by the executives and managers who supposedly want Big Data to work for them.<!--more-->
+
+If we engage in the easy of sin of using [Wikipedia][2] as a rough measure of how interested parties talk about the topic, the “big” in Big Data refers to the actual amount of data available: “In information technology, big data is a collection of data sets so large and complex that it becomes difficult to process using on-hand database management tools.” When I talk to people who think of themselves as Big Data specialists, the data set size comes up early and often. However, when I talk to people who think of themselves as Big Data consumers, then number of gigabytes or terabytes or even the number of rows and columns doesn’t come up all that often. I don’t think this is just a matter of managers and executives not understanding the technical details of what they ask their IT departments and analysts to do. I think it reflects a different understanding of what the “big” in Big Data means.
+
+I think people who run organizations – especially large organizations – tend to define their companies or agencies in terms of products, services, decisions, and actions, but not in terms of data. I’ve seen organizations who keep some records in an SQL server, some in periodic outputs to CSV files, some in Word documents or printouts that get shuffled into both real and virtual filing cabinets, and then a large part of their records just get kept in the memories of individual personnel. Even the U.S. military [apparently][3] lost, destroyed, or actually failed to ever keep a whole load of records about who was actually serving in its overseas operations. Generally speaking, data simply doesn’t seem to have been that high a priority for very many organizations.
+
+That seems to be changing. Increased availability of data coupled with more efficient means of storing and querying that data means people can get insights with a very low signal-to-noise ratio where before they just got a lot of noise, or worse, got only anecdotes and punditry. So using data not only achieves useful ends like [predicting electoral outcomes][4], but also cuts through distractions like media hype and political posturing to give a clearer view of the actual process that leads to that end. But many of those useful things that data can do just require regular-sized data, or sometimes even small data. The difference isn’t necessarily in the size of the data set, but in the prominence those data are given in the decision making process of an individual or organization. That’s the sense in which a lot of data consumers seem to refer to Big Data – they’re talking about changing their decisions into data-driven decisions, and their organizations into data-driven organizations. They’re talking about data playing a big role in what they do.
+
+In my experience, most people who want more data-driven decision making in their organizations don’t really know what that looks like. They don’t know how a data-driven version of their organization would be different than the current version of their organization, except for a vague sense that the data-driven version would be better. They don’t know how to choose from all the tools and methods for using data. They don’t know who to hire, or how many people to hire, or how to keep the people they do hire. They often don’t even know what their current databases really contain, and are [often quite surprised to learn][5] that their data has all sorts of messiness, missingness, and other qualities that could get in the way of making their data work for them.
+
+I want to lay out a general approach for turning any old organization into a data driven organization. This may help those data scientists, software engineers, and other interested parties who get frustrated at their organizations’ difficulties transitioning to a data-driven way of doing things. But mostly this is to start clarifying my own thinking on the issue: I want to figure out how I would go about helping an organization make that transformation.
+
+A few starting assumptions:
+
+First, as I said, I think a lot of people like the idea of data-driven decision making but most don’t know what that actually looks like. If we want to sell Big Data (big as in prominent, not necessarily big as in large), we can’t expect to find many educated customers. Some of this can be mitigated by really working on good data visualization, interactive presentation of results, and otherwise improving the ways data summaries and statistical results are communicated (something people [ought to be doing][6] in general), but even with great, intuitive communication, I think education about data-driven analysis has to be a substantial part of creating a data-driven organization.
+
+Second, most of the technical aspects of data-driven initiatives are things that can already be handled by any organization’s IT department, often using free software such as MySQL and R. There are even companies like [Revolution Analytics][7] who take that free stuff and offer their own stable versions along with technical support. It seems the real unfilled need isn’t in hardware configuration or software development. It’s in analysis itself. That’s the thing everyone is trying to do but very few people are doing well. The top priority needs to be helping organizations develop policies and practices that integrate data-driven analysis into the rest of what’s already going on.
+
+Third, data-driven analysis involves a bunch of tools that all do slightly different things in slightly different ways. If you want to do data-driven analysis, you need to understand the tools well enough to know which procedures are less likely to disappoint you if you pick them for a particular problem. You also need to know how to recognize procedure failure when you see it. Most of the analytic failures I’ve seen have come from people not knowing how to make decisions about their analytic options. So developing (and providing access to) analytic expertise needs to be the main emphasis rather than developing or learning a particular analytic product.
+
+Fourth, organizations should be able to become largely self-sufficient in their analytic capabilities. To adapt the old cliché: a lot of other businesses offer to catch a fish, but someone interested in true organizational transformations needs to offer to teach people to fish. The goal is to help organizations build their own versatile, scalable, in-house data-driven analysis capabilities.
+
+On a side note: from a business perspective, that last point might seem a bit counterintuitive. Most businesses don’t set goals of helping their clients not need them anymore. However, I’m persuaded that the teach-them-to-fish model offers just as much opportunity for revenue as a more traditional catch-a-fish model. For one thing, I doubt most clients would ever grow to meet their full potential. I think most would develop their in-house capabilities enough to see the value of data-driven analysis but not enough to take the reins themselves, which means they’d come back each time they wanted to expand or realign those capabilities. For those relatively few who actually did develop their capabilities enough to take care of themselves…well, I think the marketing power of that kind of success would be more than enough to find new clients. You have long-term revenue potential either way.
+
+So, education is the main deliverable; integrating data-driven practices into the larger organizational fabric is the top priority; analytic decision making is the main emphasis; and self-sufficiency is the goal. Those obviously aren’t tasks that can be adequately summarized and planned in a single blog post, so I’ll inadequately summarize and plan them below for the sake of discussion. Here’s how I’d imagine the process for any given client:
+
+1. Go in and see what kinds of things they&#8217;re trying to do. What issues are they trying to understand? What decisions do that need to make and how often do they need to make them? Who do decision makers report to? Who reports to those decision makers? What outcomes are they trying to realize? This part is all basic [organizational anthropology][8].
+
+2. Figure out what data they&#8217;re using to do those things: where it comes from, how often it’s updated, who updates it, where it’s stored, what format it’s stored in, and how bits of the data are searched and retrieved. If possible, also identify any additional data they could use to augment their current sources. That’s always nice.
+
+3. Integrate all the data as seamlessly as possible. In some cases, maybe in most cases for small to mid-sized organizations, this could be as simple as getting all daily data dumps to go straight into a SQL server instead of into all the different spreadsheets, word processing documents and collective memories of all the different departments and teams. In other cases, it might entail establishing policies and teaching best practices for putting different data sources together on an ad-hoc basis as efficiently as the IT infrastructure and usage rights allow.
+
+4. Train (or hire) selected analysts to decide what to do with a question when they receive it. In my experience, analytic training is either entirely tool-specific in that it focuses on how to do a few specific procedures or use a particular application, or it’s entirely general in that it focuses on vague issues like critical thinking that, in my opinion, can’t really be taught in any training, no matter how long or how good that training is. I don’t think either extreme is particularly useful in the long run. Instead, I would focus on what kinds of different procedures there are, how to decide if a procedure is appropriate for different kinds of problems, how to run those procedures, and how to figure out if the procedure&#8217;s output is something worth taking seriously. I don’t this requires a course in advanced statistics. Ideally, it would involve embedding one or more trainers into the organization for days, weeks, or months to help the analysts learn by doing.
+
+5. Help managers and executives be educated consumers. If people want a data-driven organization, or even a data-driven component within a more traditional organization, they need to learn to not fear any graph that isn&#8217;t a bar graph, to not fear any summary measure that isn&#8217;t a sum or an arithmetic mean, and to not only be ok with uncertainty, but to [embrace][9] it and demand explicit estimates of it. It doesn’t make any sense to say you want to transform your organization and then not transform the metrics you are willing to accept.
+
+6. Keep in touch with the organization beyond the implementation and training period. Particularly, keep in touch with the analysts to continuously assess where they are in terms of their transition to a data driven organization. That allows you to evaluate how well you’re doing, but has the added benefit of allowing you to go back to previous customers with proposal for improving or expanding their transition. It also allows you to build a network of researchers who can help each other troubleshoot old analytic techniques and learn new ones. So it turns pockets of the company into active participants within the larger analytic community. Like I said: teach them to fish.
+
+There are many possible variations on the above themes. For example, an organization might want to set up steps 1 through 3 but then hire a set of outside analysts on contract to handle step 4, and then not worry about steps 5 and 6. I think that’s ok – I certainly wouldn’t refuse to help if that’s what the client wanted, but I think all six steps should be the default.
+
+I think the barrier for entry into this kind of transformation is set [pretty low][10]. Most organizations who would realistically want to transform themselves in this way would only need a small set of readily available tools…SQL, R, maybe some Hadoop if they had crazy large data sets, and maybe some JavaScript. From a technical standpoint, it’s just not that hard.
+
+That’s what I find so interesting about this issue. I think most organizations already have most or even all of the resources and personnel they need to build some respectable data-driven capabilities, but I don’t think most organizations have such capabilities. Some people attribute this to “[cultural][10]” barriers…I’m not really sure that description is all that useful. I think people don’t make the transition because they have only a very fuzzy view of what that transition would look like. Managing company records through CSV files and Excel formulas is a pain, sure, but it’s familiar. Most SQL queries are incredibly simple – spend an hour or so on the W3 Schools [tutorial][11] and you can probably do about two-thirds of everything you’d ever need to do. But for someone who’s never done it before, it sounds hard and time-consuming.
+
+That’s why I think the main thing someone would need if they wanted to offer to facilitate or manage this kind of transition would be someone who could live in two worlds at once. People who speak data tend to drastically overestimate the extent to which everyone else in the world understands what they say. Organizational transformation is hard enough, but transformation to a data-driven organization requires someone (or several someones) who can keep one foot in the data world and one foot in the corporate/management/operational world so as to ensure smooth communication between the two.  Organizations don’t need a teacher or a trainer to develop Big Data capabilities. They need a traveling companion. They need someone who can walk through the process with them and allow them to learn in the context of their own organizational realities.
+
+ [1]: http://hbr.org/2012/10/big-data-the-management-revolution/ar/1
+ [2]: http://en.wikipedia.org/wiki/Big_data
+ [3]: http://www.propublica.org/article/lost-to-history-missing-war-records-complicate-benefit-claims-by-veterans
+ [4]: http://singularityhub.com/2012/11/08/nate-silver-and-big-data-every-one-of-his-state-level-presidential-predictions-proved-true/
+ [5]: http://jeffjonas.typepad.com/jeff_jonas/2012/11/fantasy-analytics.html
+ [6]: http://www.insidehighered.com/views/2012/10/16/essay-calling-new-skills-be-added-liberal-arts-disciplines
+ [7]: http://www.revolutionanalytics.com/
+ [8]: http://www.lindacatlin.com/whatintheworld.pdf
+ [9]: http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820
+ [10]: http://iianalytics.com/2012/11/taming-big-data-is-not-a-technology-issue/
+ [11]: http://www.w3schools.com/sql/default.asp
