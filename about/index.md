@@ -1,0 +1,6 @@
+---
+title: About
+author: Schaun Wheeler
+layout: page
+---
+We&#8217;re going to try to document the entire life span of our research &#8211; from conception to design to data collection to analysis to dissemination to implementation. Our major goal is to have a place where we can think out loud about our ideas. It&#8217;s easier to catch a weak idea when it&#8217;s written down somewhere than when it&#8217;s just floating around in our heads. Another goal is to get input and discussion from others so we can make our ideas better. Bad ideas deserve to be attacked. Ideas that can&#8217;t survive honest criticism deserve to die. The whole process hurts, but it makes for better science in the long run. Of course, we also have a goal of hosting a conversation that can help others. It would be nice if while building our houses we can end up accidentally giving people some stones or designs that they can use in theirs. All the conversations are open to anyone who wants to participate. Keep it civil, but feel free to be as blunt or as critical as you like. We&#8217;ll do the same.
