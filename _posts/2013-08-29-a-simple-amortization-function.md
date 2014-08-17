@@ -23,8 +23,6 @@ The function takes the following parameters:
 *   **output**: format of the output; &#8220;list&#8221; returns a list of full amortization tables (balance, payment, principal, interest, and installment for each month); &#8220;table&#8221; combines all the individual tables into one and differentiates loans by a separate index column; &#8220;balance&#8221;, &#8220;payment&#8221; &#8220;principal&#8221;, and &#8220;interest&#8221; return only those columns
 *   **index**: an id number or other unique identifier for each loan; if not supplied, the loans are just numbered
 
-&nbsp;
-
 {% highlight r linenos %}
 amortize <- function(p_input = 25000, i_input = .10, n_months = 36,
   output = "table", index = NULL) {
