@@ -26,7 +26,11 @@ The function takes the following parameters:
 &nbsp;
 
 ```
+<<<<<<< HEAD
 {% gist amortize.r %}
+=======
+{% gist 6380637 %}
+>>>>>>> FETCH_HEAD
 ```
 
  [1]: http://www.r-bloggers.com/mortgage-calculator-and-amortization-charts-with-r/
