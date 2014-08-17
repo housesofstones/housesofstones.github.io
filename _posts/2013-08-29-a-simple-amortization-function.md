@@ -25,5 +25,7 @@ The function takes the following parameters:
 
 &nbsp;
 
+{% gist 6380637 %}
+
  [1]: http://www.r-bloggers.com/mortgage-calculator-and-amortization-charts-with-r/
  [2]: http://biostatmatt.com/archives/895
