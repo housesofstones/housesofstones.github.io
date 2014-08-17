@@ -26,7 +26,7 @@ The function takes the following parameters:
 &nbsp;
 
 ```
-{% gist schaunwheeler/6380637 %}
+{% gist 6380637 %}
 ```
 
  [1]: http://www.r-bloggers.com/mortgage-calculator-and-amortization-charts-with-r/
