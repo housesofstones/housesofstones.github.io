@@ -7,7 +7,7 @@ a:visited {
 .post-link {
     font-size: 18px;
     color: black;
-    line-height: 0px;
+    line-height: 1px;
     display: inline;
 }
 body {
