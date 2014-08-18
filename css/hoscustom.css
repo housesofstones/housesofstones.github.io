@@ -49,5 +49,5 @@ body {
 }
 
 p, blockquote, pre, hr, dl, dd, ol, ul, figure {
-    max-width: 70%;
+    max-width: 600px;
 }
