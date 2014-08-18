@@ -40,7 +40,8 @@ body {
 
 .site-footer {
     position: fixed;
-    height: 30px;
+    height: 40px;
+    padding: 10px 0;
     clear: both;
     bottom: 0;
     background-color: white;
