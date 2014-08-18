@@ -9,8 +9,13 @@ a:hover {
     text-decoration: underline;
 }
 
+p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
+    max-width: 600px;
+}
+
 .post-list > li {
     margin-bottom: 15px;
+    width: 100%;
     max-width: 100%;
 }
 .post-link {
@@ -57,8 +62,4 @@ body {
     bottom: 0;
     background-color: white;
     width: 100%;
-}
-
-p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
-    max-width: 600px;
 }
