@@ -66,3 +66,6 @@ body {
     background-color: white;
     width: 100%;
 }
+.subscription-list {
+    font-size: 12px;
+}
