@@ -1,12 +1,12 @@
 a:link { 
-    font-weight: 500;
+    font-weight: bold !important;
     text-decoration: none;
     color: black;
 }
 
 a:visited {
     color: #666666;
-    font-weight: normal;
+    font-weight: normal !important;
 }
 
 a:hover {
