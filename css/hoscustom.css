@@ -1,16 +1,16 @@
 a:link { 
-	font-weight: bold;
-	text-decoration: none;
-	color: black;
+    font-weight: normal;
+    text-decoration: none;
+    color: black;
 }
 
 a:visited {
     color: #666666;
-	font-weight: normal;
+    font-weight: normal;
 }
 
 a:hover {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 
