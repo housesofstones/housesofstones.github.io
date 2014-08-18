@@ -1,5 +1,5 @@
 ---
-title: Data Science Needs Openness
+title: Data science needs openness
 author: Paul Meinshausen
 layout: post
 permalink: /2013/07/10/data-science-needs-openness/
