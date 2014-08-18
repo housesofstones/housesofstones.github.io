@@ -1,6 +1,19 @@
+a { 
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
 a:visited {
     color: #666666;
+	font-weight: normal;
 }
+
+a:hover {
+	text-decoration: underline;
+}
+
+
 .post-list > li {
     margin-bottom: 15px;
 }
