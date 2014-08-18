@@ -18,6 +18,16 @@ a:hover {
 .post-list a:hover {
     text-decoration: underline;
 }
+.site-title a:link {
+    text-decoration: none;
+    color: black;
+}
+.site-title a:visited {
+    color: black;
+}
+.site-title a:hover {
+    text-decoration: underline;
+}
 p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
     max-width: 600px;
 }
