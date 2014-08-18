@@ -1,8 +1,11 @@
 a:visited {
     color: grey;
 }
+.post-list > li {
+    margin-bottom: 10px;
+}
 .post-link {
-    font-size: 20px;
+    font-size: 18px;
     color: black;
     line-height: 0px;
     display: inline;
