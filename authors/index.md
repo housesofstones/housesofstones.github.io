@@ -16,7 +16,7 @@ layout: page
 </p>
 
 <p style="text-align: left; font-size: 15px;">
-  <a href="http://www.linkedin.com/in/schaunwheeler">LinkedIn Profile</a> | <a href="https://twitter.com/SchaunW">Twitter Feed</a> | <a href="https://github.com/schaunwheeler">GitHub Repositories</a> | <a href="http://stackoverflow.com/users/1829950/schaunw">StackOverflow Profile</a><a href="www.worldstrides.org"><br /> </a>
+  <a href="http://www.linkedin.com/in/schaunwheeler">LinkedIn Profile</a> | <a href="https://twitter.com/SchaunW">Twitter Feed</a> | <a href="https://github.com/schaunwheeler">GitHub Repositories</a> | <a href="http://stackoverflow.com/users/1829950/schaunw">StackOverflow Profile</a>
 </p>
 
 <p style="text-align: left; color: #ffffff;">
@@ -24,11 +24,11 @@ layout: page
 </p>
 
 <p style="text-align: left; font-size: 15px;">
-  <strong>Paul Meinshausen</strong> | Data Science Fellow, Eric & Wendy Schmidt Data Science for Social Good Fellowship, University of Chicago, Computation Institute, and Argonne National Laboratory
+  <strong>Paul Meinshausen</strong> | Independent behavioral & data science consultant
 </p>
 
 <p style="text-align: left; font-size: 15px;">
-  My early graduate training was in anthropology. Since then I&#8217;ve shifted more into computer science and computational social science. I received my MA from Middle East Technical University, in Turkey, and my research considered how people form and participate in groups during post-conflict institution building. After that I worked for two years as a social scientist for the US Army, analyzing irregular conflict and corruption. Currently my research is in the areas of social psychology and implicit social cognition, especially as they relate to institutional corruption. My main interests are in how population-level patterns of behavior emerge from individual-level social interactions and how past and ongoing social interaction constrain behavior. But that kind of research requires far better tools than are common in much of the social science I&#8217;m familiar with. So my focus is on developing ways of using social technologies and applications as behavioral sensors for systematically observing social interaction.
+  I'm a data scientist with an academic research background in anthropology and social psychology. I like work that combines rigorous descriptive and inferential statistics, machine learning, and algorithmic decision-making with behavioral science and ethnography. I've worked as an analyst and research scientist for the U.S. Deparment of the Army, the International Security Assistance Force in Afghanistan, and the Psychology Department and Safra Center for Ethics at Harvard University. As a data science consultant I've worked with data science and gamification startups, and with data from mobile phones and sensor-systems, peer-to-peer lending platforms, healthcare cost-reporting, and restaurant and hotel reviews. I was a 2013 Eric and Wendy Schmidt Data Science for Social Good Fellow with the Computation Institute at the University of Chicago. I'm currently based in Singapore, but I've also lived, spent time, and worked in Turkey, Afghanistan, India, and Thailand.
 </p>
 
 <p style="text-align: left; font-size: 15px;">
@@ -36,7 +36,7 @@ layout: page
 </p>
 
 <p style="text-align: left; font-size: 15px;">
-  <a href="www.linkedin.com/pub/paul-meinshausen/33/584/83b">LinkedIn Profile</a> | <a href="http://dssg.io/">Eric & Wendy Schmidt Data Science for Social Good Fellowship</a> | <a href="http://www.ci.anl.gov/">Computation Institute at the University of Chicago</a>
+  <a href="www.linkedin.com/pub/paul-meinshausen/33/584/83b">LinkedIn Profile</a> | <a   href="https://twitter.com/PMeins">Twitter Feed</a> | <a href="https://github.com/PMeinshausen">GitHub Repositories</a>
 </p>
 
 <p style="text-align: left; font-size: 15px;">
