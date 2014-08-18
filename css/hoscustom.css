@@ -1,6 +1,9 @@
 a:visited {
     color: #666666;
 }
+a:visited:after {
+    content: " [read]";
+}
 .post-list > li {
     margin-bottom: 15px;
 }
