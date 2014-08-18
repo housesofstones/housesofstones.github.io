@@ -18,14 +18,14 @@ a:hover {
 .post-list a:hover {
     text-decoration: underline;
 }
-.site-title a:link {
+.site-header a:link {
     text-decoration: none;
     color: black;
 }
-.site-title a:visited {
+.site-header a:visited {
     color: black;
 }
-.site-title a:hover {
+.site-header a:hover {
     text-decoration: underline;
 }
 p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
