@@ -73,10 +73,10 @@ Here’s my “take-home”: if the bad analysis of groups is sustained by its a
  [11]: https://docs.google.com/document/d/1dU-QIjoQd_kNRQjVbbs6049y6i-2WXkOjG0HOuW7lUk/neo-taliban
  [12]: http://www.nytimes.com/2010/01/31/weekinreview/13rohde.html
  [13]: http://smallwarsjournal.com/jrnl/art/choosing-more-appropriate-tools-to-understand-the-population
- [14]: https://houseofstones.wordpress.com/2012/06/08/trying-to-understand-influence-the-us-military-cant-see-past-a-line-and-block-chart/
- [15]: http://houseofstones.wordpress.com/2012/03/26/organizations-may-have-leaders-but-organizational-thinking-shouldnt/
+ [14]: https://housesofstones.github.io/2012/06/08/trying-to-understand-influence-the-us-military-cant-see-past-a-line-and-block-chart/
+ [15]: http://housesofstones.github.io/2012/03/26/organizations-may-have-leaders-but-organizational-thinking-shouldnt/
  [16]: http://coachburke.homestead.com/tablesolution.html
  [17]: http://discovermagazine.com/2003/jan/neuroquest
  [18]: http://www.andrew.cmu.edu/user/morewedg/personal/papers/SensebySentience.pdf
- [19]: http://houseofstones.wordpress.com/2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
+ [19]: http://housesofstones.github.io/2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
  [20]: http://www.foreignaffairs.com/articles/137800/chris-rohlfs-and-ryan-sullivan/the-mrap-boondoggle

@@ -294,8 +294,8 @@ What we need are fewer people who are content to base our arguments on some grap
 
 &#8230;Nope. I&#8217;m still just getting number/symbol combinations in the word column no matter which file I pull.
 
- [1]: http://houseofstones.wordpress.com/2012/02/07/opportunistic-analysis-sounds-easier-than-it-really-is/
- [2]: http://houseofstones.wordpress.com/2012/09/14/slightly-more-than-basic-sentiment-analysis/
+ [1]: http://housesofstones.github.io/2012/02/07/opportunistic-analysis-sounds-easier-than-it-really-is/
+ [2]: http://housesofstones.github.io/2012/09/14/slightly-more-than-basic-sentiment-analysis/
  [3]: http://tucker-kellogggithub.io/2012/09/30/quantifying-student-feedback-using-org-mode-and-r-2/
  [4]: http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010
  [5]: http://nlp.uned.es/~jcalbornoz/papers/LREC_2012.pdf

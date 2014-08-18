@@ -759,12 +759,12 @@ I can’t help but wonder if that could be an inherent characteristic of any att
 
 We ought to see surveys for what they are: tools for recording behaviors that are related to other behaviors that interest us. They do not record thoughts or emotions. It’s a mistake to pretend that they do. Realizing that, it makes more sense to devote our time and efforts to [recording the actual behaviors][22] that interest us, which is increasingly possible in a variety of markets and settings, and rely on surveys only in those cases where we have no other option.
 
- [1]: http://houseofstones.wordpress.com/2012/02/27/my-problematic-relationship-with-theory/
- [2]: http://houseofstones.wordpress.com/2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
- [3]: http://houseofstones.wordpress.com/2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
- [4]: http://houseofstones.wordpress.com/2012/02/14/a-numerical-heuristic-is-still-just-a-heuristic/
- [5]: http://houseofstones.wordpress.com/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
- [6]: http://houseofstones.wordpress.com/2012/03/22/on-the-virtues-of-deliberate-inaction/
+ [1]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
+ [2]: http://housesofstones.github.io/2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
+ [3]: http://housesofstones.github.io/2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
+ [4]: http://housesofstones.github.io/2012/02/14/a-numerical-heuristic-is-still-just-a-heuristic/
+ [5]: http://housesofstones.github.io/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
+ [6]: http://housesofstones.github.io/2012/03/22/on-the-virtues-of-deliberate-inaction/
  [7]: http://marketinsightcorp.com/commentary/real-data
  [8]: https://docs.google.com/document/d/1lx_74aUMdRLMqzlWSa46G_YKzsKzeDYJvwuGzvPvMaI/edit
  [9]: http://scholar.harvard.edu/sites/scholar.iq.harvard.edu/files/dwegner/files/swann_giuliano__wegner_1982.pdf
@@ -780,4 +780,4 @@ We ought to see surveys for what they are: tools for recording behaviors that ar
  [19]: http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient
  [20]: http://en.wikipedia.org/wiki/Mean_absolute_error
  [21]: http://housesofstones.github.io/wp-content/uploads/2012/04/rplot_error-index.jpg
- [22]: http://houseofstones.wordpress.com/2012/02/04/research-and-the-tools-we-use-to-do-it/
+ [22]: http://housesofstones.github.io/2012/02/04/research-and-the-tools-we-use-to-do-it/

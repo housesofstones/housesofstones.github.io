@@ -39,5 +39,5 @@ The beautiful thing about bottom-up coalition building, especially in organizati
 
 Once you have multiple examples of data-driven activities working for different sections of your organization, it’s much easier to convince those flagship folks that they ought to give it a try too: instead of telling them what they can do to improve, you can show them how other parts of the organization have improved from doing the things you’re advocating.
 
- [1]: http://houseofstones.wordpress.com/2012/11/15/bottom-up-creation-of-data-driven-capabilities-automate-your-work/#more-315
+ [1]: http://housesofstones.github.io/2012/11/15/bottom-up-creation-of-data-driven-capabilities-automate-your-work/#more-315
  [2]: http://xkcd.com/1028/

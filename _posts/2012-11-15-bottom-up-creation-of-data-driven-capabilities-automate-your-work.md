@@ -253,8 +253,8 @@ This list that probably would have taken a few hours to cobble together using th
 
 As I said earlier, this code isn’t incredibly efficient. There are a lot of things I could tweak to make the lists pull faster. The thing is, I don’t need them to pull faster. A few weeks ago we found out around 9:00 in the morning that we needed to do an email campaign to every individual contact (not just companies) in our data base, and that the email needed to be sent before the close of business. It was the largest query of our records I’ve had to do – and was literally the largest query I could possibly do. The whole thing was pulled within about two hours. I don’t need it to run any faster. I just need it to run without me having to pay attention to it. That leaves me with time to pay attention to other issues, and that time is what allows me to come up with better ways to use our data and to construct analyses instead of narratives.
 
- [1]: http://houseofstones.wordpress.com/2012/11/13/big-data-of-all-sizes-how-to-turn-a-regular-organization-into-a-data-driven-organization/
- [2]: http://houseofstones.wordpress.com/2012/11/13/big-data-of-all-sizes-how-to-turn-a-regular-organization-into-a-data-driven-organization/#comment-316
+ [1]: http://housesofstones.github.io/2012/11/13/big-data-of-all-sizes-how-to-turn-a-regular-organization-into-a-data-driven-organization/
+ [2]: http://housesofstones.github.io/2012/11/13/big-data-of-all-sizes-how-to-turn-a-regular-organization-into-a-data-driven-organization/#comment-316
  [3]: http://www.amazon.com/Change-Culture-Game-Breakthrough-Accountability/dp/1591845394
  [4]: http://en.wikipedia.org/wiki/Customer_relationship_management
  [5]: http://cran.r-project.org/web/packages/RODBC/index.html

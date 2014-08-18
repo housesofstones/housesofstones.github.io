@@ -30,7 +30,7 @@ But let&#8217;s pretend the military does have a massive amount of data availabl
 
 >  *&#8220;My conclusion? When you see a passage in quotation marks in a New Yorker article, you should not expect it to be a truthful representation of anything that the alleged speaker ever actually said. Rather, you should take it as the author&#8217;s expression of what they want you to believe that the speaker meant. In some cases, these unquotations are &#8220;poetically true&#8221;, that is, they give an insightful impression of the speaker&#8217;s feelings and attitudes, although the writer knows that the words are not original. In other cases, the unquotations are an honest misrepresentation, in the sense that they&#8217;re genuinely what the author understood (or at least, remembers) the speaker to have meant to say. And sometimes, the unquotations are completely fictional, in the sense that the author doesn&#8217;t care at all what the alleged speaker either said or meant, but puts words in their mouth in order to advance the narrative.&#8221;*
 
- [1]: http://houseofstones.wordpress.com/2012/08/15/experts-that-send-us-their-reckons/
+ [1]: http://housesofstones.github.io/2012/08/15/experts-that-send-us-their-reckons/
  [2]: http://www.youtube.com/watch?v=oP-rkzJ6yZw
  [3]: http://registan.net/index.php/2009/05/24/gauging-obamas-af-pak-experts/
  [4]: http://registan.net/index.php/2012/06/28/exum-vs-exum-or-revisioning-counterinsurgency-in-helmand/

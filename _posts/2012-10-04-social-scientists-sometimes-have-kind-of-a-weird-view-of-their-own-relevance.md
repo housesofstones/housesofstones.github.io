@@ -73,12 +73,12 @@ And the causal arrow between these outcomes and social science could plausibly b
 For me to accept that social science as a discipline deserves the same kind of regard and, potentially, remuneration, as medical science or engineering or any of the other fields that do command a decent amount of respect and money, I would need to see examples of outcomes being created as a result of social science where the outcome was clearly better than the alternative, and where the outcome couldn’t just as easily be attributed to just the use of a particular technology, or even just to the fact that people threw time, money, and attention at a problem.
 
  [1]: http://chronicle.com/article/Want-to-Change-Academic/134546/
- [2]: http://houseofstones.wordpress.com/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
- [3]: http://houseofstones.wordpress.com/2012/09/13/more-about-the-total-mess-that-is-the-standard-academic-publication-system/
- [4]: http://houseofstones.wordpress.com/2012/02/27/my-problematic-relationship-with-theory/
- [5]: http://houseofstones.wordpress.com/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
- [6]: http://houseofstones.wordpress.com/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
- [7]: http://houseofstones.wordpress.com/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
+ [2]: http://housesofstones.github.io/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
+ [3]: http://housesofstones.github.io/2012/09/13/more-about-the-total-mess-that-is-the-standard-academic-publication-system/
+ [4]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
+ [5]: http://housesofstones.github.io/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
+ [6]: http://housesofstones.github.io/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
+ [7]: http://housesofstones.github.io/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
  [8]: http://gking.harvard.edu/matchit
  [9]: http://gking.harvard.edu/amelia/
  [10]: http://gking.harvard.edu/gking/files/newsocsci-uva.pdf

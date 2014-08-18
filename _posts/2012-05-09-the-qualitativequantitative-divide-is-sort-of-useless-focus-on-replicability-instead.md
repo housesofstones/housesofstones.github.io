@@ -58,8 +58,8 @@ Obviously, the replicable/non-replicable distinction is a spectrum: studies can 
 
 It seems sort of beside the point to state that a qualitative or a quantitative or a &#8220;mixed-methods&#8221; approach would have been more appropriate in this or that research situation. The distinction doesn&#8217;t help us evaluate the research or even have a useful debate about the merits of the findings. All such statements do is point out that there are always other methods a researcher could have used to tackle a problem. I think everyone already knows that.
 
- [1]: http://houseofstones.wordpress.com/2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
- [2]: http://houseofstones.wordpress.com/2012/04/20/consensus-is-overrated-objectivity-isnt/
+ [1]: http://housesofstones.github.io/2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
+ [2]: http://housesofstones.github.io/2012/04/20/consensus-is-overrated-objectivity-isnt/
  [3]: http://www.slu.edu/organizations/qrc/QRjournals.html
  [4]: http://en.wikipedia.org/wiki/Perestroika_Movement_(political_science)
  [5]: http://eprints.pascal-network.org/archive/00000816/01/tcs02.pdf

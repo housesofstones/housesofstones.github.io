@@ -83,12 +83,12 @@ In the meantime, [check out the paper][4].
 
 &nbsp;
 
- [1]: http://houseofstones.wordpress.com/2012/09/12/feeling-ineffective-needing-the-haqqani-network-2/
+ [1]: http://housesofstones.github.io/2012/09/12/feeling-ineffective-needing-the-haqqani-network-2/
  [2]: http://www.santafe.edu/research/videos/play/?id=1afdd4f2-18a8-4b4f-970d-2aa8ae1f1760
  [3]: http://events.iq.harvard.edu/events/node/2893
  [4]: http://people.fas.harvard.edu/~rnielsen/jihad.pdf
- [5]: http://houseofstones.wordpress.com/2012/02/27/my-problematic-relationship-with-theory/
- [6]: http://houseofstones.wordpress.com/2012/03/01/give-data-collection-the-respect-it-deserves/
+ [5]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
+ [6]: http://housesofstones.github.io/2012/03/01/give-data-collection-the-respect-it-deserves/
  [7]: http://www.nytimes.com/2011/10/01/world/middleeast/anwar-al-awlaki-is-killed-in-yemen.html?pagewanted=all&_moc.semityn.www
  [8]: http://en.wikipedia.org/wiki/Python_(programming_language)
  [9]: http://www.amazon.com/New-Unconscious-Social-Cognition-Neuroscience/dp/0195307690

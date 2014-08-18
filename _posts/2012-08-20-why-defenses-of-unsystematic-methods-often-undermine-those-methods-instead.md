@@ -55,7 +55,7 @@ If, on the other hand, we have only a very tenuous grasp of what the system is o
 
 People who try to argue that unsystematic methods can produce evidence comparable to systematic methods lack a leg to stand on – they don’t have anything to a support their assertions except for the assertions themselves. Moreover, those arguments, I think, actually undermine the credibility of those methods by measuring them against a standard by which they were never *capable* of performing well. Unsystematic methods help us explore the logic of our explanations, including but not limited to providing much needed sanity-checks on big-scale hypotheses. They’re good at that. Let them be good at that. They don’t need to beat systematic methods at their own game. They have their own game – one very much worth playing.
 
- [1]: http://houseofstones.wordpress.com/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
+ [1]: http://housesofstones.github.io/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
  [2]: http://blogs.scientificamerican.com/literally-psyched/2012/08/10/humanities-arent-a-science-stop-treating-them-like-one/
  [3]: http://www.amazon.com/Evidence-Oxford-Studies-Philosophy-Science/dp/0195171713
  [4]: http://mathematicsofwar.com/

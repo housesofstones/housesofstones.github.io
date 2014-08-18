@@ -50,7 +50,7 @@ I’m done ranting, but just because it&#8217;s on my mind, here are some other
 
 [Harvard University says it can&#8217;t afford journal publishers&#8217; prices][7]
 
- [1]: http://houseofstones.wordpress.com/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
+ [1]: http://housesofstones.github.io/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
  [2]: http://www.wired.com/threatlevel/2012/09/aaron-swartz-felony/all/
  [3]: http://en.wikipedia.org/wiki/Lawrence_Lessig
  [4]: https://www.youtube.com/watch?feature=player_embedded&v=GAzLRif9VDA#t=206s

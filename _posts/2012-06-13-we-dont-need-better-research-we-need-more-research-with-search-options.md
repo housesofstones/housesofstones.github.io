@@ -91,5 +91,5 @@ I don’t trust myself to reliably recognize good research when I see it. There 
  [6]: http://futureofscipub.wordpress.com/open-post-publication-peer-review/
  [7]: http://occamstypewriter.org/scurry/2012/04/23/harvard-we-have-a-problem/?goback=%2Egde_1123547_member_109990176
  [8]: http://www.plosone.org/article/info:doi/10.1371/journal.pone.0014331
- [9]: http://houseofstones.wordpress.com/2012/04/20/consensus-is-overrated-objectivity-isnt/
+ [9]: http://housesofstones.github.io/2012/04/20/consensus-is-overrated-objectivity-isnt/
  [10]: http://scholarlykitchen.sspnet.org/2012/04/10/emergence-of-a-citation-cartel/

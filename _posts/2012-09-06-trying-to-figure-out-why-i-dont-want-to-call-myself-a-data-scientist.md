@@ -72,9 +72,9 @@ When I talk to current colleagues about my conflict projects or meta-analyses, I
 I think there must be a decent, succinct description for someone who can live in any the provinces of social and behavioral research, but who is happiest and most effective traveling between those provinces. I just don’t know what that description is. “Data scientist” comes close in many ways, but especially when I look at all the ways that terms is used in actual work settings, I’m not convinced the term is any better than something generic, like “researcher.” At least with “researcher,” people will know that they don’t know what I do. With any of the disciplinary titles, be it “data scientist” or “anthropologist”, I find I have to spend far too much time explaining why I don’t do half the things they think I should, and why I *do* do half the things they think I shouldn’t. I don’t *need* a short, clear title for myself. It would just be nice to have.
 
  [1]: http://www.linkedin.com/in/schaunwheeler
- [2]: http://houseofstones.wordpress.com/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
- [3]: http://houseofstones.wordpress.com/2012/08/20/why-defenses-of-unsystematic-methods-often-undermine-those-methods-instead/
+ [2]: http://housesofstones.github.io/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
+ [3]: http://housesofstones.github.io/2012/08/20/why-defenses-of-unsystematic-methods-often-undermine-those-methods-instead/
  [4]: http://mathbabe.org/2011/09/25/why-and-how-to-hire-a-data-scientist-for-your-business/
  [5]: http://junkcharts.typepad.com/numbersruleyourworld/2012/08/communicating-coding-and-intuition-for-data-scientists.html
  [6]: http://www.linkedin.com/groups/Do-people-hiring-Data-Scientist-2013423.S.82947479?view=&srchtype=discussedNews&gid=2013423&item=82947479&type=member&trk=eml-anet_dig-b_pd-ttl-cn&ut=1_E-bMzGkUz5o1
- [7]: http://houseofstones.wordpress.com/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
+ [7]: http://housesofstones.github.io/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/

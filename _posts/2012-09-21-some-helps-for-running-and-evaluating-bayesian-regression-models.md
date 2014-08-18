@@ -321,11 +321,11 @@ So the output of NewPredict() matches the output of predict.MCMCglmm, and passin
 
 So I’m pretty happy now with the tools I currently have for Bayesian modeling. I do wish I could use a scaled inverse-Wishart or separation strategy prior (see [here][27]) – if there’s a way to do that in MCMCglmm I haven’t figured it out – and the [Stan][28] program/package created by Andrew Gelman and others looks cool enough that it might actually entice me to learn BUGS-esque syntax, but for the time being I feel pretty ok about my regression tools.
 
- [1]: http://houseofstones.wordpress.com/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
+ [1]: http://housesofstones.github.io/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
  [2]: http://allendowney.blogspot.com/2011/05/there-is-only-one-test.html
- [3]: https://houseofstones.wordpress.com/2012/09/12/feeling-ineffective-needing-the-haqqani-network-2/
- [4]: http://houseofstones.wordpress.com/2012/03/19/maybe-we-dont-actually-know-what-we-think-we-know/
- [5]: http://houseofstones.wordpress.com/2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
+ [3]: https://housesofstones.github.io/2012/09/12/feeling-ineffective-needing-the-haqqani-network-2/
+ [4]: http://housesofstones.github.io/2012/03/19/maybe-we-dont-actually-know-what-we-think-we-know/
+ [5]: http://housesofstones.github.io/2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
  [6]: http://www.r-project.org/
  [7]: http://www.indiana.edu/~kruschke/articles/Kruschke2010WIRES.pdf
  [8]: http://www.amazon.com/The-Theory-That-Would-Not/dp/0300169698
@@ -341,7 +341,7 @@ So I’m pretty happy now with the tools I currently have for Bayesian modeling.
  [18]: http://en.wikipedia.org/wiki/Prior_probability
  [19]: http://en.wikipedia.org/wiki/Random_effects
  [20]: http://en.wikipedia.org/wiki/Marginal_distribution
- [21]: http://houseofstones.wordpress.com/2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
+ [21]: http://housesofstones.github.io/2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
  [22]: https://github.com/schaunwheeler/mcmcglmm
  [23]: http://yaroslavvb.com/papers/gelman-parameterization.pdf
  [24]: http://cran.r-project.org/web/packages/MCMCglmm/vignettes/CourseNotes.pdf

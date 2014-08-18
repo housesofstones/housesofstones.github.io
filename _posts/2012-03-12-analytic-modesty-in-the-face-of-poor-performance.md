@@ -61,7 +61,7 @@ I’m sympathetic to the idea that formulating and articulating ideas about how 
 
 The commenter at the beginning of this post said, “We will have to act to the best of our knowledge at a given time.” I agree, with the caveat that, whenever we feel we need to act, we need to be able to first state, explicitly, what the best of our knowledge is at that point in time. Ignorance is rarely an excuse for action. If we can’t point to data – and preferably to a model of the data as well – to support one course of action over another, then all we have is our ignorance. In that case, I wonder if we’re not better off maintaining whatever course we’re currently on instead of trying to change a world we so poorly understand.
 
- [1]: http://houseofstones.wordpress.com/2012/02/27/my-problematic-relationship-with-theory/
+ [1]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
  [2]: http://www.math.uvic.ca/faculty/diacu/diacuNbody.pdf
  [3]: http://en.wikipedia.org/wiki/Three_body_problem#n-body_problem
  [4]: http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm

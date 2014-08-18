@@ -39,7 +39,7 @@ If the tools we’re using to observe behavior have been around for decades, if 
 
 It’s a question that I’ve had to ask myself about my own research over and over again. A year or two ago I wouldn’t have known how to build anything, and the only way I knew how to use a tool like a keyboard was to type in English or Turkish. I just don’t think that’s good enough anymore. So now I’m spending my evenings in computer science and physical computing courses. Those are the tools I’ve decided to learn how to use, so that eventually I can build my own. I think of it like this: Good research needs hard walls. When it meets them it should inform how to go through, over, around, or under them. All of that involves tools. We should help design, build, and test those tools; not just sit back and hope they get built one day by someone else. And when we’re looking to be informed by others’ research, it makes sense to spend most of our time on the research that has demonstrated originality and value as much in *how* it has observed behavior, and made behavior observable, as it has in the cleverness or originality of its theories and hypotheses.
 
- [1]: http://houseofstones.wordpress.com/2012/01/29/good-research-usually-needs-walls-hard-ones/
+ [1]: http://housesofstones.github.io/2012/01/29/good-research-usually-needs-walls-hard-ones/
  [2]: http://icouzin.princeton.edu/lab-research/
  [3]: http://www.livescience.com/6160-cell-phones-reveal-predictability-human-movements.html
  [4]: http://www.pnas.org/content/106/36/15274.long

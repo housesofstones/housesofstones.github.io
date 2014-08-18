@@ -58,7 +58,7 @@ The way the Joint Special Operations Command [reorganized to fight Al Qaeda][5] 
 
 Schaun and I have both made the argument that organizations should be regularly and consistently collecting a lot more data than they do (on themselves and on the environments they’re operating in). When and by whom decisions are being made is a set of information that would be one of the first things I’d start to record if I were setting out to analyze and understand an organization. What is the distribution of decision-making in the organization? Is a small set of people in a front office making the vast majority of the significant decisions? It’s unlikely that there’s any single distribution that’s best for all situations and all environments. But narrowly hierarchical and uniformly structured organizations (where the commander makes the decisions and everyone else carries them out) probably aren’t the ones best suited to face the kind of problems and challenges that today’s environments pose.
 
- [1]: http://houseofstones.wordpress.com/2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
+ [1]: http://housesofstones.github.io/2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
  [2]: http://www.eecs.harvard.edu/ssr/
  [3]: http://www.newscientist.com/article/mg21228382.100-squishybots-soft-bendy-and-smarter-than-ever.html
  [4]: http://www.csmonitor.com/Science/2011/1129/Squid-robot-Gumby-like-robot-squeezes-through-tight-spaces-VIDEO

@@ -65,6 +65,6 @@ The moral of the story here isn’t that we just need to act less. It’s that w
  [3]: http://www.thenation.com/article/anthropologists-spies
  [4]: http://www.jstor.org/discover/10.2307/1465405?uid=3739256&uid=2129&uid=2&uid=70&uid=4&sid=47698781756937
  [5]: http://www.unl.edu/rhames/courses/current/dandrade.pdf
- [6]: http://houseofstones.wordpress.com/2012/03/01/give-data-collection-the-respect-it-deserves/
- [7]: http://houseofstones.wordpress.com/2012/03/19/maybe-we-dont-actually-know-what-we-think-we-know/
- [8]: http://houseofstones.wordpress.com/2012/02/07/opportunistic-analysis-sounds-easier-than-it-really-is/
+ [6]: http://housesofstones.github.io/2012/03/01/give-data-collection-the-respect-it-deserves/
+ [7]: http://housesofstones.github.io/2012/03/19/maybe-we-dont-actually-know-what-we-think-we-know/
+ [8]: http://housesofstones.github.io/2012/02/07/opportunistic-analysis-sounds-easier-than-it-really-is/

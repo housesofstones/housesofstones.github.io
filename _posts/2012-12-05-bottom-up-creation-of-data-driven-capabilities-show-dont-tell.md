@@ -68,7 +68,7 @@ I’m not saying an interactive presentation of results will break down all the 
 
 You can find the full code for the app at <https://gist.github.com/4207354>. I used RStudio’s \`shiny\` application, the documentation for which can be found [here][4]. It’s still in the fairly early stages of development – for example, I don’t think there is currently any way I could have divided the profitability and ease of sales sections of the sidebar into state, low grade, high grade, and income subsections, and no way I could have placed the profitability and ease of sales sections side-by-side. But it’s crazy easy to use and I expect the R community to really jump into developing this one. I’m kind of excited about all the ways people are developing methods for R to do things outside of the R console.
 
- [1]: http://houseofstones.wordpress.com/2012/11/15/bottom-up-creation-of-data-driven-capabilities-automate-your-work/
- [2]: http://houseofstones.wordpress.com/2012/11/28/bottom-up-creation-of-data-driven-capabilities-weak-supporters-10-strong-support/
+ [1]: http://housesofstones.github.io/2012/11/15/bottom-up-creation-of-data-driven-capabilities-automate-your-work/
+ [2]: http://housesofstones.github.io/2012/11/28/bottom-up-creation-of-data-driven-capabilities-weak-supporters-10-strong-support/
  [3]: http://glimmer.rstudio.com/schaunwheeler/SegmentViewer/
  [4]: http://www.rstudio.com/shiny/

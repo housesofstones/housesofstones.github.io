@@ -68,7 +68,7 @@ The gap between the reproducible social science community and the foreign policy
  [3]: http://asiafoundation.org/country/afghanistan/2012-poll.php
  [4]: http://carnegieendowment.org/2012/12/03/in-afghanistan-it-s-not-all-in-numbers/epjw
  [5]: http://carnegieendowment.org/experts/?fa=expert_view&expert_id=712
- [6]: http://houseofstones.wordpress.com/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
+ [6]: http://housesofstones.github.io/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
  [7]: http://en.wikipedia.org/wiki/Binary
  [8]: http://blogs.scientificamerican.com/literally-psyched/2012/08/10/humanities-arent-a-science-stop-treating-them-like-one/
  [9]: https://twitter.com/DanTGilbert/status/233971440590934018

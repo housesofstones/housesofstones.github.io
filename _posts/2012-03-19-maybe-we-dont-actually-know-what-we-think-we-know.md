@@ -49,7 +49,7 @@ I tend to think that the sell-more-papers type of journalism more often than not
  [1]: http://toinformistoinfluence.com/2012/03/11/damage-control-in-afghanistan/
  [2]: http://www.nytimes.com/2012/02/23/world/asia/koran-burning-in-afghanistan-prompts-second-day-of-protests.html
  [3]: http://www.nytimes.com/2012/03/17/world/asia/afghan-shooting-suspect-identified-as-army-staff-sgt-robert-bales.html
- [4]: http://houseofstones.wordpress.com/2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
+ [4]: http://housesofstones.github.io/2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
  [5]: http://onlinelibrary.wiley.com/doi/10.1111/j.1460-2466.1996.tb01487.x/abstract
  [6]: http://www.fas.org/sgp/crs/row/R40699.pdf
  [7]: http://www.sigar.mil/pdf/audits/2009-09-09audit-09-05.pdf
@@ -60,7 +60,7 @@ I tend to think that the sell-more-papers type of journalism more often than not
  [12]: http://www.crisisgroup.org/en/publication-type/media-releases/2011/asia/aid-and-conflict-in-afghanistan.aspx
  [13]: http://www.foreignpolicy.com/articles/2009/12/01/money_cant_buy_america_love
  [14]: http://www.mcclatchydc.com/2011/01/12/106681/troubled-us-afghan-projects-mushroom.html
- [15]: http://houseofstones.wordpress.com/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
+ [15]: http://housesofstones.github.io/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
  [16]: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1322178
  [17]: http://belfercenter.ksg.harvard.edu/files/Aid_Under_Fire.pdf
  [18]: http://www.humansecuritygateway.com/documents/MIT_WinningHeartsandMinds.pdf

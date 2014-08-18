@@ -90,8 +90,8 @@ Less accurate depictions can withstand criticism for a long time by their propon
 
 Emergent objectivity does not require each individual to be individually objective, any more than flocks of birds or schools of fish require their individual members to know or care about how the whole collective moves. Objectivity comes from an environment of debate, not from the debaters themselves. Because of that, we need less consensus, not more. Our goal as researchers should not be to build a core body of knowledge about a topic – none of us has the ability to do something like that. Our goal should be to promote our own ideas in forums and formats that open those ideas to as much criticism as possible. If we do that, and if we do not settle for superficial agreement so long as substantive issues remain to be addressed, that core body of knowledge can be built as a side effect of our individual debates.
 
- [1]: http://houseofstones.wordpress.com/2012/04/02/surveys-assumptions-and-the-need-for-data-collection-alternatives/
- [2]: http://houseofstones.wordpress.com/2012/04/05/dying-like-the-enemy/
- [3]: http://houseofstones.wordpress.com/2012/02/27/my-problematic-relationship-with-theory/
+ [1]: http://housesofstones.github.io/2012/04/02/surveys-assumptions-and-the-need-for-data-collection-alternatives/
+ [2]: http://housesofstones.github.io/2012/04/05/dying-like-the-enemy/
+ [3]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
  [4]: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1698090
  [5]: http://www.amazon.com/The-Ascent-Science-Brian-Silver/dp/0195134273

@@ -53,15 +53,15 @@ I am all for systematic observation and analysis. And I’m very much in favor o
 
  [1]: http://www.pnas.org/content/early/2012/11/29/1218054109.abstract?sid=000a8486-8488-411b-9757-50cce7524a92
  [2]: http://www.amazon.com/Research-Methods-Anthropology-Qualitative-Quantitative/dp/0759108684/ref=sr_1_4?s=books&ie=UTF8&qid=1354899394&sr=1-4
- [3]: http://houseofstones.wordpress.com/2012/10/04/social-scientists-sometimes-have-kind-of-a-weird-view-of-their-own-relevance/
+ [3]: http://housesofstones.github.io/2012/10/04/social-scientists-sometimes-have-kind-of-a-weird-view-of-their-own-relevance/
  [4]: http://en.wikipedia.org/wiki/Refrigeration#Cyclic_refrigeration
  [5]: http://www.pnas.org/content/107/32/14431.full
- [6]: http://houseofstones.wordpress.com/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
+ [6]: http://housesofstones.github.io/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
  [7]: http://www.statisticsblog.com/2012/12/the-surprisingly-weak-case-for-global-warming/
- [8]: http://houseofstones.wordpress.com/2012/02/27/my-problematic-relationship-with-theory/
+ [8]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
  [9]: http://groups.lis.illinois.edu/amag/langevgroup/localpapers/origins-of-epistemic-structures-ab-2007.pdf
- [10]: http://houseofstones.wordpress.com/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
+ [10]: http://housesofstones.github.io/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
  [11]: http://opinionator.blogs.nytimes.com/2012/05/17/how-reliable-are-the-social-sciences/
  [12]: http://www.nature.com/polopoly_fs/7.6716.1349271308!/suppinfoFile/Kahneman%20Letter.pdf
  [13]: http://pps.sagepub.com/content/current
- [14]: http://houseofstones.wordpress.com/2012/11/13/big-data-of-all-sizes-how-to-turn-a-regular-organization-into-a-data-driven-organization/
+ [14]: http://housesofstones.github.io/2012/11/13/big-data-of-all-sizes-how-to-turn-a-regular-organization-into-a-data-driven-organization/

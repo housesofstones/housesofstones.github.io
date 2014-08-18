@@ -63,8 +63,8 @@ That’s why I’ve [argued][2] that popular social science theories aren’t a 
 
 All models are approximations. Great. Let’s get on with our lives. Some approximations of pi work better for certain applications than others. Some maps of cities help you find your way around better than others. Some models of behavior give us fewer surprises and help us avoid unintended consequences better than others. Expectation fulfillment is, ultimately, the only criterion for evaluating models. Questions about founding assumptions, sampling bias, generalizability, validity confounds and all the rest are just special cases of that one overarching concern.
 
- [1]: http://houseofstones.wordpress.com/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
- [2]: http://houseofstones.wordpress.com/2012/02/27/my-problematic-relationship-with-theory/
+ [1]: http://housesofstones.github.io/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
+ [2]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
  [3]: http://andrewgelman.com/wp-content/uploads/2012/03/tarpey.pdf
  [4]: http://andrewgelman.com/2012/03/all-models-are-right-most-are-useless/
  [5]: http://www.amazon.com/Theory-Progress-Social-Science-James/dp/0521574943

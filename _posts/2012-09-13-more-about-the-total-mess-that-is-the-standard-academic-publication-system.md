@@ -38,7 +38,7 @@ The best way to keep someone from saying a piece of research says something it d
 
 That’s the essence of what I was getting at in the last [post][1] I wrote on this subject. No editor or reviewer or any individual knows enough of the literature and has a good enough grasp of the current state of all a discipline’s subdivisions and understands enough of all the available methods and can interpret enough of all the available theory and jargon to be able to decide whether a piece of research is “quality” research. No editor or reviewer or any individual is competent to decide whether a piece of research is valuable or interesting. A more reasonable publication model would accept what is already true – that each reader decides those things for him or herself no matter what and editor or reviewer says – and give people the pre-publication comments to serve as tools in deciding whether an argument deserved to be believed.
 
- [1]: http://houseofstones.wordpress.com/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
- [2]: http://houseofstones.wordpress.com/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
+ [1]: http://housesofstones.github.io/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
+ [2]: http://housesofstones.github.io/2012/09/06/why-should-we-believe-you-anthropology-and-public-interest/
  [3]: http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8675866
  [4]: http://polmeth.wustl.edu/media/Paper/Publication%20Bias%20in%20Political%20Science%20(final).pdf

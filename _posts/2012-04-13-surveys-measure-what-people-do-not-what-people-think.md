@@ -1198,11 +1198,11 @@ I’m fascinated by this issue not just because surveys are used so often in my 
 
 All of these options are decent but none of them are great. However, the best options again used a scale that was anchored in the middle with a definite neutral point, and were re-coded to only differentiate between the two extremes of the scale and everything else.
 
- [1]: http://houseofstones.wordpress.com/2012/04/02/surveys-assumptions-and-the-need-for-data-collection-alternatives/
+ [1]: http://housesofstones.github.io/2012/04/02/surveys-assumptions-and-the-need-for-data-collection-alternatives/
  [2]: http://books.google.com/books/about/How_to_measure_survey_reliability_and_va.html?id=LGWLEJ-Yxk0C
  [3]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1055348/pdf/qualhc00019-0012.pdf
  [4]: ftp://ftp.cba.uri.edu/classes/FTPRoot/Classes/ashley/nothing/Christy/use%20of%20expert%20judges.pdf
  [5]: http://journals.lww.com/lww-medicalcare/Abstract/1996/03000/A_12_Item_Short_Form_Health_Survey__Construction.3.aspx
- [6]: http://houseofstones.wordpress.com/2012/02/27/my-problematic-relationship-with-theory/
+ [6]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
  [7]: https://docs.google.com/document/d/128yuz3mtU8sEsQxOJnhZCdFXNnhNS_ElIMg7DEYTl7w/edit
  [8]: http://academic.brooklyn.cuny.edu/economic/friedman/rateratingscales.htm

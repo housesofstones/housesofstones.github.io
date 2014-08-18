@@ -57,11 +57,11 @@ Happily, I think change is coming, and because the problem is so easy to solve (
  [2]: http://en.wikipedia.org/wiki/Open_access
  [3]: http://openanthcoop.ning.com/profiles/blogs/aaa-new-longrange-plan-drops
  [4]: http://blogs.plos.org/neuroanthropology/2010/12/01/anthropology-science-and-public-understanding/
- [5]: http://houseofstones.wordpress.com/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
+ [5]: http://housesofstones.github.io/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
  [6]: http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2011.01395.x/abstract
  [7]: http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2011.01399.x/abstract
  [8]: http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2011.01394.x/abstract
- [9]: http://houseofstones.wordpress.com/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
+ [9]: http://housesofstones.github.io/2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
  [10]: http://en.wikipedia.org/wiki/Turtles_all_the_way_down
  [11]: http://en.wikipedia.org/wiki/Coming_of_Age_in_Samoa#The_Mead-Freeman_controversy
  [12]: http://moreno.ss.uci.edu/43.pdf
