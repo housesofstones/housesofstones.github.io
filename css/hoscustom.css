@@ -48,6 +48,6 @@ body {
     background-color: white;
 }
 
-p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
     max-width: 600px;
 }
