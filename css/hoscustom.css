@@ -5,7 +5,32 @@ a:visited {
     font-size: 20px;
     color: black;
     line-height: 0px;
+    display: inline;
 }
 body {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.site-header {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+.page-content {
+    padding: 100px 0;
+}
+
+.footer-col-1 {
+    width: calc(20% - (30px / 2));
+}
+.footer-col-2 {
+    width: 0px;
+}
+.footer-col-3 {
+    width: calc(70% - (30px / 2));
+}
+
+.wrapper {
+    max-width: 80%;
 }
