@@ -25,7 +25,7 @@ tags:
 Take a look at this picture:
 
 <p style="text-align:center;">
-  <a href="http://housesofstones.github.io/wp-content/uploads/2012/08/applesamsung1.jpg"><img class="aligncenter size-full wp-image-183" title="AppleSamsung" src="http://housesofstones.github.io/wp-content/uploads/2012/08/applesamsung1.jpg" alt="" width="590" height="373" /></a>
+  <a href="http://housesofstones.github.io/images/applesamsung1.jpg"><img class="aligncenter size-full wp-image-183" title="AppleSamsung" src="http://housesofstones.github.io/images/applesamsung1.jpg" alt="" width="590" height="373" /></a>
 </p>
 
 It’s a picture of an iPhone next to a picture of several Samsung phones. [It was submitted by Apple as evidence in a lawsuit claiming Samsung copied Apple’s design][1].<!--more-->
@@ -34,7 +34,7 @@ Whatever position you take on the lawsuit, you can recognize the notion behind i
 
 Now check out this table:
 
-[<img class="aligncenter size-full wp-image-185" title="table" src="http://housesofstones.github.io/wp-content/uploads/2012/08/table.jpg" alt="" width="495" height="626" />][2]
+[<img class="aligncenter size-full wp-image-185" title="table" src="http://housesofstones.github.io/images/table.jpg" alt="" width="495" height="626" />][2]
 
 &nbsp;
 
@@ -77,6 +77,6 @@ In the general population, that would be a nightmare. It isn’t even possible. 
 &nbsp;
 
  [1]: http://arstechnica.com/tech-policy/2012/08/apples-case-that-samsung-copied-the-iphone-and-ipad-in-pictures/
- [2]: http://housesofstones.github.io/wp-content/uploads/2012/08/table.jpg
+ [2]: http://housesofstones.github.io/images/table.jpg
  [3]: http://books.google.com/books?id=zHgGwdWfe0IC&pg=PA3&lpg=PA3&dq=explaining+culture+scientifically&source=bl&ots=xx7yIDsLQp&sig=D1GWHiv_NWGDTWxcdXQv-NtSRH4&hl=en&sa=X&ei=3X4tUOvCEueO6gGh3IHgCQ&ved=0CGgQ6AEwBQ#v=onepage&q&f=false
  [4]: http://www.amazon.com/Explaining-Culture-Scientifically-Melissa-Brown/dp/0295987898/ref=sr_1_1?ie=UTF8&qid=1345171621&sr=8-1&keywords=explaining+culture+scientifically

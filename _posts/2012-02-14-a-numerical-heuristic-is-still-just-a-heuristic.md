@@ -30,7 +30,7 @@ The NPS has been [criticized][3] on the grounds that it ignores a lot of informa
 
 But over the last week, I’ve started to see how it could be useful. Take a look at the graph below. I simulated the full range of possible NPS scores and introduced some random variation to compare the NPS with the range of values that we could expect to see if we instead calculated a plain-old average. The blue points are based on 150 simulations of responses to 30 different questions. Ignore the yellow and red points for a second – I’ll come back to those.
 
-[<img class="alignnone size-full wp-image-58" title="NPS_compare_full" src="http://housesofstones.github.io/wp-content/uploads/2012/02/nps_compare_full.jpg" alt="" width="590" height="442" />][4]
+[<img class="alignnone size-full wp-image-58" title="NPS_compare_full" src="http://housesofstones.github.io/images/nps_compare_full.jpg" alt="" width="590" height="442" />][4]
 
 The black diagonal line is where the blue dots would be if NPS and the mean matched up exactly. The very highest NPS scores portray the data in a more positive light than the mean would. NPS of about 75 and down pretty consistently portrays the data in a more negative light than the mean would. In other words, NPS does exactly what is says it does – it really values very high responses, treats ambivalent responses as equivalent to low responses, and ignores just-higher-than-middle responses. As you can see from the horizontal spread of the blue markers, there are fewer ways for a high score to be high than there are for a low score to be low – only 2 values of the 10-point scale are “promoters” while 6 out of 10 are “detractors.” And we’re not really loosing too much information if we use NPS – this simulation showed a .99 correlation between the NPS and the mean.
 
@@ -55,7 +55,7 @@ Heuristics are necessary, and I generally prefer a systematic heuristics to an u
  [1]: http://en.wikipedia.org/wiki/Net_promoter_score
  [2]: http://scholar.google.com/scholar?start=20&q=%22net+promoter+score%22&hl=en&as_sdt=0,47
  [3]: https://fcis.vdu.lt/~n.klebanskaja@evf.vdu.lt/FOV1-000893DA/FOV1-0007EF60/33138058.pdf
- [4]: http://housesofstones.github.io/wp-content/uploads/2012/02/nps_compare_full.jpg
+ [4]: http://housesofstones.github.io/images/nps_compare_full.jpg
  [5]: http://www.cnbc.pt/jpmatos/29.%20Bradley.pdf
  [6]: http://faculty.chicagobooth.edu/marianne.bertrand/research/mean_say_aer.pdf
  [7]: http://www.nature.com/gim/journal/v9/n11/full/gim2007110a.html

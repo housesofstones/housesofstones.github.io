@@ -67,7 +67,7 @@ The commenter at the beginning of this post said, “We will have to act to the 
  [4]: http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm
  [5]: http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124
  [6]: http://www.nature.com/nrd/journal/v10/n9/full/nrd3439-c1.html
- [7]: http://mathematicsofwar.com/wp-content/uploads/2009/12/WarEcologyNature-2.pdf
+ [7]: http://mathematicsofwar.com/imagesWarEcologyNature-2.pdf
  [8]: http://www.sciencemag.org/content/327/5968/1018
  [9]: http://spsptalks.wordpress.com/2011/12/31/groundbreaking-or-definitive-journals-need-to-pick-one/
  [10]: http://andrewgelman.com/2010/03/more_on_misunde/

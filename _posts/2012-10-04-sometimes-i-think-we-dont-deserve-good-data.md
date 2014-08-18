@@ -28,7 +28,7 @@ Of the different scored lists that are out there, and there are [several][5], it
 
 This got me thinking about what kinds of words might be scored as more positively or negatively by human raters. For example, I think most people would rate “spectacular” as being a stronger positive word than “good”, but you don’t need to have people rate words for you to know that:
 
-[<img class="alignnone size-full wp-image-288" title="chart" src="http://housesofstones.github.io/wp-content/uploads/2012/10/chart.png" alt="" width="900" height="330" />][6]
+[<img class="alignnone size-full wp-image-288" title="chart" src="http://housesofstones.github.io/images/chart.png" alt="" width="900" height="330" />][6]
 
 The above graph, taken from [Google’s ngram viewer][7], shows the relative usage of “good” and “spectacular” in books from 1950 through 2000. “Good” is consistently used much more often than “spectacular”, which makes sense if we assume that the majority of most people’s day-to-day experiences are pretty average on the scale from positive to negative. That’s [the point][8] of emotions &#8211; to help us remember particularly good and particularly bad experiences.So sentiment-laden words that are used less frequently might represent emotional experiences that are experienced less often, and therefore word frequency in a really large corpus might act as proxy for the strength of the sentiment, with higher usage indicating lower strength.
 
@@ -38,7 +38,7 @@ Here’s where my frustrations started. As I mentioned, the above graph was from
 
 I can’t download version 2. Every time I click on the file, I get this:
 
-[<img class="alignnone size-full wp-image-290" title="error" src="http://housesofstones.github.io/wp-content/uploads/2012/10/error1.png" alt="" width="960" height="192" />][9]
+[<img class="alignnone size-full wp-image-290" title="error" src="http://housesofstones.github.io/images/error1.png" alt="" width="960" height="192" />][9]
 
 This happens in Chrome. If I hold my nose and try it in Internet Explorer, Microsoft gives me a message that I can’t download it and says that’s probably because I didn’t enter a password.
 
@@ -288,7 +288,7 @@ What we need are fewer people who are content to base our arguments on some grap
 
 [UPDATE, 10/5/2012: Whoa. I just went back to the Google ngram data site on a whim (actually, I&#8217;ve been obsessing over it a little since I wrote this post. All of the version 2 data sets are gone, including all mention of them in the data descriptions. However, if you look at the snippet that shows up below the link on the Google search, you can clearly see that it mentions version 2. I&#8217;m downloading the version 1 set now to see if gobbledygook still shows up in place of the ngrams.
 
-[<img class="alignnone size-full wp-image-295" title="google" src="http://housesofstones.github.io/wp-content/uploads/2012/10/google.jpg" alt="" width="768" height="240" />][13]
+[<img class="alignnone size-full wp-image-295" title="google" src="http://housesofstones.github.io/images/google.jpg" alt="" width="768" height="240" />][13]
 
 &nbsp;
 
@@ -299,11 +299,11 @@ What we need are fewer people who are content to base our arguments on some grap
  [3]: http://tucker-kellogggithub.io/2012/09/30/quantifying-student-feedback-using-org-mode-and-r-2/
  [4]: http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010
  [5]: http://nlp.uned.es/~jcalbornoz/papers/LREC_2012.pdf
- [6]: http://housesofstones.github.io/wp-content/uploads/2012/10/chart.png
+ [6]: http://housesofstones.github.io/images/chart.png
  [7]: http://books.google.com/ngrams/datasets
  [8]: http://pages.uoregon.edu/harbaugh/Readings/Neuroscience/Kid%20bargaining.pdf
- [9]: http://housesofstones.github.io/wp-content/uploads/2012/10/error1.png
+ [9]: http://housesofstones.github.io/images/error1.png
  [10]: http://stackoverflow.com/questions/7714311/save-google-ngram-result-as-csv
  [11]: http://www.informationisbeautiful.net/visualizations/google-ngram-experiments/
  [12]: http://meta.english.stackexchange.com/questions/2469/should-we-allow-google-ngrams-to-be-presented-as-statistical-evidence-without-qu
- [13]: http://housesofstones.github.io/wp-content/uploads/2012/10/google.jpg
+ [13]: http://housesofstones.github.io/images/google.jpg

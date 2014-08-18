@@ -65,6 +65,6 @@ All models are approximations. Great. Let’s get on with our lives. Some approx
 
  [1]: http://housesofstones.github.io/2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
  [2]: http://housesofstones.github.io/2012/02/27/my-problematic-relationship-with-theory/
- [3]: http://andrewgelman.com/wp-content/uploads/2012/03/tarpey.pdf
+ [3]: http://andrewgelman.com/imagestarpey.pdf
  [4]: http://andrewgelman.com/2012/03/all-models-are-right-most-are-useless/
  [5]: http://www.amazon.com/Theory-Progress-Social-Science-James/dp/0521574943
