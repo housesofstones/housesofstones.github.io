@@ -52,7 +52,7 @@ You can divide the more from the less just by taking the above-median and below-
 
 So you have some analytic findings. Great. Suppose the managers who requested the analysis really do think they just want high-income elementary schools in the Pacific Northwest. Telling them that the analysis says differently might not impress them. This is where an interactive analysis comes in helpful:
 
-[<img class="alignnone size-full wp-image-326" alt="SegmentViewer_Screenshot" src="http://housesofstones.com/blog/wp-content/uploads/2012/12/segmentviewer_screenshot.png" height="624" width="960" />][3]
+[<img class="alignnone size-full wp-image-326" alt="SegmentViewer_Screenshot" src="http://housesofstones.github.io/wp-content/uploads/2012/12/segmentviewer_screenshot.png" height="624" width="960" />][3]
 
 Click on the image to see the interactive version (if the link in the image doesn&#8217;t work, go to [http://glimmer.rstudio.com/schaunwheeler/SegmentViewer][3]/). The top facet of the graph plots the micro-segments by average revenue and total revenue, and color-codes them by which of the four segments they fall into. The lower facet plots the same metrics but color-code them by where the segmentation assignments fall if they are made by hand – a manager could check off the boxes on the left-hand side to indicate which values he or she thought were more likely to correspond to profitability or relatively easy sales. The graph automatically updates to allow comparison of those intuitive categories to the categories that are based fully on the data, and the tables provide some summary measures for reinforcement.
 

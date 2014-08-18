@@ -24,7 +24,7 @@ For example, if I model sales response and then automate the assignment of sales
 
 I want my work to do more than generate a conversation. I like it when it generates conversations, and a sparked discussion can be a first step to actually doing something, but I don&#8217;t want all my work to end at the discussion. I even count a one-time implementation of something I do as just barely better than ending at discussion. If my goal is to create something durable, that means implementing it more than once, even if the subsequent implementations are (as they should be) very modified versions of what was there originally. Those applications are the best way to get people to use my analyses, and they&#8217;re also the best way to check the quality of my data and assumptions. It&#8217;s now strange to me to think of application as something that happens completely after, or in any way separated from, an analysis. Creating applications &#8211; products, not reports &#8211; seems to be the best way to accomplish almost all of what publication is supposed to do.
 
- [1]: http://housesofstones.com/blog/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
- [2]: http://housesofstones.com/blog/2012/09/13/more-about-the-total-mess-that-is-the-standard-academic-publication-system/
- [3]: http://housesofstones.com/blog/2012/10/20/another-downside-to-the-current-journal-system/
- [4]: http://housesofstones.com/blog/2012/12/06/the-value-of-reproducible-research-sometimes-the-response-matters-more-than-the-results/
+ [1]: http://housesofstones.github.io/2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
+ [2]: http://housesofstones.github.io/2012/09/13/more-about-the-total-mess-that-is-the-standard-academic-publication-system/
+ [3]: http://housesofstones.github.io/2012/10/20/another-downside-to-the-current-journal-system/
+ [4]: http://housesofstones.github.io/2012/12/06/the-value-of-reproducible-research-sometimes-the-response-matters-more-than-the-results/

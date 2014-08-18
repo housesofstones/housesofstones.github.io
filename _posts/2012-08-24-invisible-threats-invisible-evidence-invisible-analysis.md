@@ -124,7 +124,7 @@ The key here is that a plausible scenario isn’t enough to make an argument wor
   </p>
 
  [1]: http://media.hoover.org/sites/default/files/documents/EmergingThreats_Blum.pdf
- [2]: http://www.slate.com/blogs/future_tense/2012/08/22/imsi_catchers_criminals_law_enforcement_using_high_tech_portable_devices_to_intercept_communications_.html
+ [2]: http://www.slategithub.ios/future_tense/2012/08/22/imsi_catchers_criminals_law_enforcement_using_high_tech_portable_devices_to_intercept_communications_.html
  [3]: http://www.slate.com/articles/technology/future_tense/2012/08/facial_recognition_software_targeted_advertising_we_love_to_call_new_technologies_creepy_.html
  [4]: http://tech.fortune.cnn.com/2012/07/17/transcript-schmidt-thiel/
  [5]: http://stevenpinker.com/publications/better-angels-our-nature

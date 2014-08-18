@@ -131,7 +131,7 @@ Finally, it’s possible that some people could answer the survey questions foll
 
 After all that, it’s just a matter of running the simulation a whole bunch of times. I simulated 2001 responses for each increment of the quality index, for unanchored, anchored, and mixed response formats for survey instruments ranging from 2-point scales to 11-point scales. I then averaged all of the responses, rescaled those averaged responses to run from 0 to 100, and then compared the survey approximation of the quality index to the actual index values. Here are the results:
 
-[<img class="alignnone size-full wp-image-126" title="Rplot_scale-index" src="http://housesofstones.com/blog/wp-content/uploads/2012/04/rplot_scale-index.jpg" alt="" width="590" height="894" />][18]
+[<img class="alignnone size-full wp-image-126" title="Rplot_scale-index" src="http://housesofstones.github.io/wp-content/uploads/2012/04/rplot_scale-index.jpg" alt="" width="590" height="894" />][18]
 
 The black line running from bottom-left to top-right is where the values would be if the aggregated survey responses perfectly matched the quality index, while the streams of colored dots show how well each response format actually matched the quality index. It’s clear that the survey scales tend to fare worse the more options those scales have, but generally, the whole thing looks pretty good. But it’s hard to tell for certain since we’re plotting really large ranges of numbers within really small areas.  So let’s look at a few summary measures:
 
@@ -521,7 +521,7 @@ When assessing the fit between an estimate and a target set of data, I generally
 
 The correlations and MAEs for all of the scales look pretty good. Correlations were a tiny bit lower and the MAEs quite a bit higher higher for the unanchored format than for the anchored format, with the mixed format somewhere in the middle. I did find it interesting that the anchored format fared slightly better for even-numbered scales than for odd-numbered scales, with the exception of the 3-point and 2-point scales: every response format did slightly better with the 3-point than the 2-point. Generally, though, there’s not a huge difference across scales, perhaps with the exception of the MAEs for the unanchored scale – the MAE for the unanchored 5-point was still worse than the MAE for the anchored 11-point. Despite similar summary measures, however, if we plot the errors themselves – the degree to which the survey approximation overestimated or underestimated the quality index – we find some interesting things:
 
-[<img class="alignnone size-full wp-image-127" title="Rplot_error-index" src="http://housesofstones.com/blog/wp-content/uploads/2012/04/rplot_error-index.jpg" alt="" width="590" height="590" />][21]
+[<img class="alignnone size-full wp-image-127" title="Rplot_error-index" src="http://housesofstones.github.io/wp-content/uploads/2012/04/rplot_error-index.jpg" alt="" width="590" height="590" />][21]
 
 The graph shows a few things that the summary measures already showed: the unanchored response format performed much worse than the anchored and mixed formats. On the 11-point scale, the unanchored response format often missed the mark by anywhere from 5 to over 15 points, while the anchored scale was almost always within five points. We have to drop down to a five-point scale before the unanchored format nears the accuracy of the anchored format on the 11-point scale. Also, you can see that the spread of errors for the 3-point scale is smaller than the spread for the 2-point.
 
@@ -776,8 +776,8 @@ We ought to see surveys for what they are: tools for recording behaviors that ar
  [15]: http://www.workplaceinstitute.org/blog/forced-choice-responses-vs-a-centre-response-category-which-works-best/
  [16]: http://www.springerlink.com/content/v64l706018t47173/
  [17]: http://www.jstor.org/discover/10.2307/30038845?uid=3739256&uid=2&uid=4&sid=55981928013
- [18]: http://housesofstones.com/blog/wp-content/uploads/2012/04/rplot_scale-index.jpg
+ [18]: http://housesofstones.github.io/wp-content/uploads/2012/04/rplot_scale-index.jpg
  [19]: http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient
  [20]: http://en.wikipedia.org/wiki/Mean_absolute_error
- [21]: http://housesofstones.com/blog/wp-content/uploads/2012/04/rplot_error-index.jpg
+ [21]: http://housesofstones.github.io/wp-content/uploads/2012/04/rplot_error-index.jpg
  [22]: http://houseofstones.wordpress.com/2012/02/04/research-and-the-tools-we-use-to-do-it/

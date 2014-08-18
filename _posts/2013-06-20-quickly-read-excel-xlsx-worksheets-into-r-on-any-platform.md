@@ -28,7 +28,7 @@ The following gist uses R&#8217;s XML package, as well as a little help from the
   </p>
 </noscript>
 
- [1]: http://housesofstones.com/blog/2013/06/18/quickly-read-excel-worksheets-into-r-windows-only-sorry/
+ [1]: http://housesofstones.github.io/2013/06/18/quickly-read-excel-worksheets-into-r-windows-only-sorry/
  [2]: https://github.com/dilshod/xlsx2csv
  [3]: http://rpy.sourceforge.net/rpy2.html
  [4]: http://stackoverflow.com/search?q=%5Br%5D%2C+%5Bxml%5D

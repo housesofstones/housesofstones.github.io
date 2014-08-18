@@ -22,7 +22,7 @@ Holy cow, it&#8217;s really hard to get that information.
 
 You might be thinking that I&#8217;m just a poor planner. I worked for the Army, so it seems I should have thought of this need earlier and figured out how to get those numbers a long time ago. I actually did think of this need earlier &#8211; a couple of years ago. I looked for the information then and couldn&#8217;t find it. The frustration of that search seems to have dimmed in my memory over the ensuing period of time, but it all came back in a wave last night. For example, take a look at this:
 
-[<img class="alignnone size-full wp-image-50" title="IMAGE_afghan-iraq-troops" src="http://housesofstones.com/blog/wp-content/uploads/2012/02/image_afghan-iraq-troops1.gif" alt="Troops levels in Afghanistan and Iraq - NPR" width="300" height="330" />][2]
+[<img class="alignnone size-full wp-image-50" title="IMAGE_afghan-iraq-troops" src="http://housesofstones.github.io/wp-content/uploads/2012/02/image_afghan-iraq-troops1.gif" alt="Troops levels in Afghanistan and Iraq - NPR" width="300" height="330" />][2]
 
 It&#8217;s a graph of troop levels in Iraq and Afghanistan that was presented in an NPR story. The original is [here][3]. Notice the Afghanistan line is missing in parts. On the original web page, underneath the graph, it says two things: &#8220;Note: Data not available for some months&#8221; and &#8220;Source: Department of Defense.&#8221; In other words, NPR got those data from the people who are actually conducting the war, and those people themselves didn&#8217;t know how many troops were on the ground for some months.
 
@@ -32,7 +32,7 @@ So we can&#8217;t assume that the data are actually stored some place and that t
 
 So I started looking for other sources. That&#8217;s when I came across this:
 
-[<img class="alignnone size-full wp-image-51" title="IMAGE_Brookings_afghanistan" src="http://housesofstones.com/blog/wp-content/uploads/2012/02/image_brookings_afghanistan1.jpg" alt="Troop levels in Afghanistan - Brookings Institution" width="590" height="332" />][5]
+[<img class="alignnone size-full wp-image-51" title="IMAGE_Brookings_afghanistan" src="http://housesofstones.github.io/wp-content/uploads/2012/02/image_brookings_afghanistan1.jpg" alt="Troop levels in Afghanistan - Brookings Institution" width="590" height="332" />][5]
 
 What&#8217;s I&#8217;ve pasted here is actually a still of [this interactive graph][6] produced as part of the Brookings Institution&#8217;s Afghanistan Index. If you roll your mouse over any particular part of the graph, it will tell you how many Afghan Security Forces, U.S. troops, and other foreign troops were in the country at any given time. As the graph says, they had to estimate levels for many months, but at least they have the estimates &#8211; and they&#8217;re up front with how they arrived at them.
 
@@ -47,8 +47,8 @@ What I understand less, and what frustrates me more, is the non-government sites
 I&#8217;m a big advocate of opportunistic analysis. I think some really insightful stuff has come from people who took data that was just lying around in different places, put all of it together in one place, and then employed some rigorous analytic tools to find patterns. I think that kind of work is not only necessary in research environments where a researcher&#8217;s employer is more concerned with day-to-day operational and business outcomes than with achieving a consistently deeper understanding of an issue, but I also think it&#8217;s exciting. I get excited when I find governments, NGOs, and other groups dedicated to making information available, who recognize the potential benefits of letting people take advantage of open information. I wish these organizations realized that available information isn&#8217;t the same as usable information. I have more available information than I can handle. I have precious little usable information. That&#8217;s a problem for organizations who want their data to be used. I only have so much time and energy. More often than not, if the data are available but difficult to access, I&#8217;m going to choose a different project or a different way to address my questions. There are a lot of opportunities out there. The opportunities that are the easiest to access will be the ones that get the most use, garner the most attention, and do the most good.
 
  [1]: http://houseofstones.wordpress.com/2012/01/29/good-research-usually-needs-walls-hard-ones/
- [2]: http://housesofstones.com/blog/wp-content/uploads/2012/02/image_afghan-iraq-troops1.gif
+ [2]: http://housesofstones.github.io/wp-content/uploads/2012/02/image_afghan-iraq-troops1.gif
  [3]: http://www.npr.org/2011/06/10/137102440/q-a-can-the-u-s-find-success-in-afghanistan
  [4]: http://www.fas.org/sgp/crs/natsec/R40682.pdf
- [5]: http://housesofstones.com/blog/wp-content/uploads/2012/02/image_brookings_afghanistan1.jpg
+ [5]: http://housesofstones.github.io/wp-content/uploads/2012/02/image_brookings_afghanistan1.jpg
  [6]: http://www.brookings.edu/foreign-policy/afghanistan-index.aspx
