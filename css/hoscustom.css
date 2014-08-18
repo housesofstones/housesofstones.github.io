@@ -13,10 +13,13 @@ p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
     max-width: 600px;
 }
 
-.post-list > li {
-    margin-bottom: 15px;
+.post-list {
     width: 100%;
     max-width: 100%;
+}
+
+.post-list > li {
+    margin-bottom: 15px;
 }
 .post-link {
     font-size: 16px;
