@@ -46,6 +46,7 @@ body {
     clear: both;
     bottom: 0;
     background-color: white;
+    width: 100%;
 }
 
 p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
