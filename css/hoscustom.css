@@ -32,6 +32,7 @@ body {
 }
 .footer-col-3 {
     width: calc(70% - (30px / 2));
+    font-size: 12px;
 }
 
 .wrapper {
@@ -41,7 +42,7 @@ body {
 .site-footer {
     position: fixed;
     border-top: 1px solid black;
-    height: 40px;
+    height: 50px;
     padding: 10px 0;
     clear: both;
     bottom: 0;
