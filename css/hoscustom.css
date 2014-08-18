@@ -1,4 +1,4 @@
-a:link { 
+a:link {
     text-decoration: none;
     color: black;
 }
@@ -9,9 +9,9 @@ a:hover {
     text-decoration: underline;
 }
 
-
 .post-list > li {
     margin-bottom: 15px;
+    white-space: nowrap;
 }
 .post-link {
     font-size: 16px;
