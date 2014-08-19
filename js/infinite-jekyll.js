@@ -68,9 +68,9 @@ $(function() {
     var postURL = postURLs[index];
 		
     $.get(postURL, function(data) {
-    url = $.get(postURL).find("link[rel='canonical']")[0].href;
-    title = $.get(postURL).find('.post-title').html();
-    meta = $.get(postURL).find('.post-meta').html();
+    url = $(data).find("link[rel='canonical']")[0].href;
+    title = $(data).find('.post-title').html();
+    meta = $(data).find('.post-meta').html();
  
     list_elem = document.createElement("li");
     text_node = document.createTextNode('&nbsp;&nbsp;&nbsp;')
