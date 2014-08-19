@@ -73,7 +73,7 @@ $(function() {
     meta = $(data).find('.post-meta').html();
  
     list_elem = document.createElement("li");
-    text_node = document.createTextNode('&nbsp;&nbsp;&nbsp;')
+    text_node = document.createTextNode('   ')
     
     link_elem = document.createElement("a");
     link_elem.setAttribute("class", "post-link");
@@ -88,7 +88,7 @@ $(function() {
     list_elem.appendChild(text_node)
     list_elem.appendChild(span_elem)
 
-    list_elem.appendTo(".post-list");
+    $(".post-list").append(list_elem)
     callback();
 
     });
