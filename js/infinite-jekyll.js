@@ -63,12 +63,21 @@ $(function() {
 		
     fetchPostWithIndex(postCount + loadedPosts, callback);
   }
-	
+
+  function get_href(get_list) {
+    for(var i=0; i<get_list.length; i++) {
+        var x = get_list[i];
+        if(x.className=='post-url'){
+            return x.href;
+        }
+     }
+  }
+
   function fetchPostWithIndex(index, callback) {
     var postURL = postURLs[index];
 		
     $.get(postURL, function(data) {
-    url = $(data).find(".post-url").attr('href');
+    url = get_href($(data));
     title = $(data).find('.post-title').html();
     meta = $(data).find('.post-meta').html();
  
