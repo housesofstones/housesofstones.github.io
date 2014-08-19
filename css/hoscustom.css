@@ -88,3 +88,7 @@ body {
 .subscription-list {
     font-size: 12px;
 }
+.gist {
+    max-width: 600px;
+    font-size: 12px;
+}
