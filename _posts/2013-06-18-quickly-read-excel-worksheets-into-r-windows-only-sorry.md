@@ -29,13 +29,7 @@ The function takes the following inputs:
 
 Unfortunately, this only works on Windows. I had hoped it would work on a Mac where Excel was installed, but I haven’t had any luck getting it to work on my home computer.
 
-<pre></pre>
-
-<noscript>
-  <p>
-    View the code on <a href="https://gist.github.com/5805242">Gist</a>.
-  </p>
-</noscript>
+{% gist schaunwheeler/5805242 %}
 
  [1]: https://gist.github.com/schaunwheeler/5805242
  [2]: http://jeffkinzer.blogspot.com/2012/06/vbscript-to-convert-excel-to-csv.html
