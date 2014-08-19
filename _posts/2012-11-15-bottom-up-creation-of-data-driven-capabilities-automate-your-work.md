@@ -19,7 +19,7 @@ tags:
   - data-driven
   - R
 ---
-My [previous post][1] on how to transform an organization into a more data-driven version of itself made a pretty big assumption that often doesn’t hold true. I assumed that people in the organization wanted their company or agency to become more data-driven. I think almost everyone says they want that if asked. I even think most people think they want that. But I don’t think most managers and executives actually want it (and Paul pointed out something similar in his recent [comments][2]). This is the first of what will probably be two or three posts on what to do when you want a more data-driven organization but the rest of your organization doesn’t.<!--more-->
+My [previous post][1] on how to transform an organization into a more data-driven version of itself made a pretty big assumption that often doesn’t hold true. I assumed that people in the organization wanted their company or agency to become more data-driven. I think almost everyone says they want that if asked. I even think most people think they want that. But I don’t think most managers and executives actually want it. This is the first of what will probably be two or three posts on what to do when you want a more data-driven organization but the rest of your organization doesn’t.<!--more-->
 
 Here’s a scenario:
 
