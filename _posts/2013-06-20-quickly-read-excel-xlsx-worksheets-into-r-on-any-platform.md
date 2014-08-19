@@ -22,7 +22,7 @@ The following gist uses R&#8217;s XML package, as well as a little help from the
 
 *EDIT4: In response to James Dalrymple&#8217;s comments below, I&#8217;ve revised the function. For someone more comfortable with R&#8217;s list structure than with xpath expressions, the original method of converting the XML to a list was convenient. However, extracting node values and attributes through xpath expressions gives a very noticeable boost in speed. I ran the following, revised function on an 18.3 MB file with 18 sheets in it. It took 14 minutes to run. And I&#8217;m now much more familiar with xpath than I was before, so I see this as an all-around win.*
 
-{% gist schaunwheeler 5825002 %}
+{% gist schaunwheeler/5825002 %}
 
  [1]: http://housesofstones.github.io/2013/06/18/quickly-read-excel-worksheets-into-r-windows-only-sorry/
  [2]: https://github.com/dilshod/xlsx2csv
