@@ -8,3 +8,19 @@ description: '&quot;Science is facts; just as houses are made of stones, so is s
 markdown: kramdown
 highlighter: pygments
 
+authors:
+  swheeler:
+    name: Schaun Wheeler
+    display_name: Schaun Wheeler
+    email: schaun.wheeler@gmail.com
+    web: http://www.linkedin.com/in/schaunwheeler
+    twitter: @SchaunW
+    github: https://github.com/schaunwheeler
+  pmeinshausen:
+    name: Paul Meinshausen
+    display_name: Paul Meinshausen
+    email: meinshap@gmail.com
+    web: http://housesofstones.github.io/authors/www.linkedin.com/pub/paul-meinshausen/33/584/83b
+    twitter: PMeins
+    github: https://github.com/PMeinshausen
+
