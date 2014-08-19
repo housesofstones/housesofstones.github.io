@@ -10,7 +10,7 @@ $(function() {
   $.getJSON('/all-posts.json', function(data) {
     postURLs = data["posts"];
     
-    // If there aren't any more posts available to load than already visible, disable fetching
+  // If there aren't any more posts available to load than already visible, disable fetching
     if (postURLs.length <= postsToLoad)
       disableFetching();
   });
@@ -68,9 +68,32 @@ $(function() {
     var postURL = postURLs[index];
 		
     $.get(postURL, function(data) {
-      $(data).find(".post").appendTo(".post-list");
-      callback();
+    url = $.get(postURL).find("link[rel='canonical']")[0].href;
+    title = $.get(postURL).find('.post-title').html();
+    meta = $.get(postURL).find('.post-meta').html();
+ 
+    list_elem = document.createElement("li");
+    text_node = document.createTextNode('&nbsp;&nbsp;&nbsp;')
+    
+    link_elem = document.createElement("a");
+    link_elem.setAttribute("class", "post-link");
+    link_elem.setAttribute("href", url );
+    link_elem.innerHTML = title
+
+    span_elem = document.createElement("span");
+    span_elem.setAttribute("class", "post-meta");
+    span_elem.innerHTML = meta
+
+    list_elem.appendChild(link_elem)
+    list_elem.appendChild(text_node)
+    list_elem.appendChild(span_elem)
+
+    list_elem.appendTo(".post-list");
+    callback();
+
     });
+
+
   }
   
   function disableFetching() {
