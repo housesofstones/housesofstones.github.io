@@ -68,7 +68,7 @@ $(function() {
     var postURL = postURLs[index];
 		
     $.get(postURL, function(data) {
-    url = $(data).find(".post-url").href;
+    url = $(data).find(".post-url").attr('href');
     title = $(data).find('.post-title').html();
     meta = $(data).find('.post-meta').html();
  
