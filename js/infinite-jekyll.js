@@ -73,7 +73,7 @@ $(function() {
     meta = $(data).find('.post-meta').html();
  
     list_elem = document.createElement("li");
-    text_node = document.createTextNode('   ')
+    text_node = document.createTextNode('\u00A0\u00A0\u00A0')
     
     link_elem = document.createElement("a");
     link_elem.setAttribute("class", "post-link");
