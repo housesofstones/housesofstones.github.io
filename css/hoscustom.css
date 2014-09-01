@@ -1,10 +1,17 @@
-header, footer {
+.site-header, .site-footer {
     background-color: lightslategrey;
 }
-header > a, footer > a {
+.site-header > a:link, .site-footer > a:link {
     color: #fffff8;
+    text-decoration: none;
 }
-
+.site-header > a:visited, .site-footer > a:visited {
+    color: #fffff8;
+    text-decoration: none;
+}
+.site-header > a:hover, .site-footer > a:hover {
+    text-decoration: underline;
+}
 a:link {
     text-decoration: underline;
     color: black;
@@ -25,16 +32,6 @@ a:hover {
 .post-list a:hover {
     text-decoration: underline;
 }
-.site-header a:link {
-    text-decoration: none;
-    color: black;
-}
-.site-header a:visited {
-    color: black;
-}
-.site-header a:hover {
-    text-decoration: underline;
-}
 p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
     max-width: 600px;
 }
@@ -43,7 +40,6 @@ p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
     width: 100%;
     max-width: 100%;
 }
-
 .post-list > li {
     margin-bottom: 15px;
 }
@@ -56,11 +52,9 @@ p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
 body {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
-
 .site-header {
     position: fixed;
     width: 100%;
-    background-color: white;
 }
 
 .page-content {
@@ -90,7 +84,6 @@ body {
     padding: 10px 0;
     clear: both;
     bottom: 0;
-    background-color: white;
     width: 100%;
 }
 .subscription-list {
