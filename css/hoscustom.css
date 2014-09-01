@@ -1,3 +1,10 @@
+header, footer {
+    background-color: lightslategrey;
+}
+header > a, footer > a {
+    color: #fffff8;
+}
+
 a:link {
     text-decoration: underline;
     color: black;
@@ -58,6 +65,7 @@ body {
 
 .page-content {
     padding: 100px 0;
+    background-color: #fffff8;
 }
 
 .footer-col-1 {
