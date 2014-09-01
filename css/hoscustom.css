@@ -26,6 +26,9 @@
 .site-footer a:hover {
     text-decoration: underline;
 }
+.site-title {
+    font-size: 24px;
+}
 a:link {
     text-decoration: underline;
     color: black;
@@ -58,7 +61,7 @@ p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
     margin-bottom: 15px;
 }
 .post-link {
-    font-size: 16px;
+    font-size: 20px;
     color: black;
     line-height: 1px;
     display: inline;
@@ -93,7 +96,7 @@ body {
 
 .site-footer {
     position: fixed;
-    border-top: 1px solid black;
+    border-top: 0px solid black;
     height: 60px;
     padding: 10px 0;
     clear: both;
