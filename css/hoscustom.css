@@ -110,16 +110,14 @@ body {
 }
 .post-content a:link {
     text-decoration: none;
-    font-style: bold;
-    font-size: 17px;
+    font-weight: bold;
 }
 .post-content a:visited {
     color: #222222;
     text-decoration: none;
-    font-style: bold;
-    font-size: 17px;
+    font-weight: bold;
 }
 .post-content a:hover {
     text-decoration: none;
-    font-style: bold;
+    font-weight: bold;
 }
