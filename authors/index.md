@@ -4,11 +4,11 @@ author: Schaun Wheeler
 layout: page
 ---
 <p style="text-align: left; font-size: 15px;">
-  <strong>Schaun Wheeler</strong> | Director of Research and Data Science, WorldStrides, LLC
+  <strong>Schaun Wheeler</strong> | Data Scientist, Infusive
 </p>
 
 <p style="text-align: left; font-size: 15px;">
-  Most of my formal training was in traditional anthropological theories and methods (long-term immersive research, participant observation, narrative-style, interpretive analyses, etc.), but later expanded to include neuroscience-based theory and statistics-based methods. My experiences working as an analyst for the U.S. Department for the Army confirmed and strengthened my commitment to systematic approaches to research. I feel a little silly calling myself an anthropologist, since I can&#8217;t find any analytic use for concepts like culture or identity, but I don&#8217;t know what else to call myself (&#8220;social scientist&#8221; sounds strange&#8230;and uninformative). I study behavior, which isn&#8217;t (in my mind) the same as studying people. I&#8217;m more interested in shared, emergent behavior than individual actions, and I tend to look for explanations for behavior in the environment to which people adapt rather than in people&#8217;s ideas or words. I&#8217;m a minimalist when it comes to theory and an opportunist when it comes to methods.
+  My formal training is in cognitive and cultural anthropology. I’m also a self-trained data scientist. My ethnographic skills help me adapt to unfamiliar settings, see things holistically, and tie analytic goals to on-the-ground concerns. My statistical and programming skills help me tackle noisy data, find hard-to-find patterns, automate a lot of my work, and collaborate effectively with engineers and analysts. Data science makes me a better anthropologist and anthropology makes me a better data scientist. I started out doing social-movement research in Central Asia, then switched to working counter-insurgency issues for the U.S. Department of the Army, then managed the marketing research and web teams of a educational travel service, and now I work for a financial services startup. I'm a minimalist when it comes to theory, a pragmatist when it comes to methods, and an opportunist when it comes to research topics. I once ate sheep face, drank sulphur water, and got sunstroke (all in the same day) in order to score an interview I needed.
 </p>
 
 <p style="text-align: left; font-size: 15px;">
