@@ -27,7 +27,7 @@
     text-decoration: underline;
 }
 .site-title {
-    font-size: 24px;
+    font-size: 32px;
 }
 a:link {
     text-decoration: underline;
@@ -61,7 +61,7 @@ p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
     margin-bottom: 15px;
 }
 .post-link {
-    font-size: 20px;
+    font-size: 18px;
     color: black;
     line-height: 1px;
     display: inline;
