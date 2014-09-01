@@ -1,15 +1,15 @@
 .site-header, .site-footer {
-    background-color: lightslategrey;
+    background-color: #bbc3cc;
 }
-.site-header > a:link, .site-footer > a:link {
+.site-header a:link, .site-footer a:link {
     color: #fffff8;
     text-decoration: none;
 }
-.site-header > a:visited, .site-footer > a:visited {
+.site-header a:visited, .site-footer a:visited {
     color: #fffff8;
     text-decoration: none;
 }
-.site-header > a:hover, .site-footer > a:hover {
+.site-header a:hover, .site-footer a:hover {
     text-decoration: underline;
 }
 a:link {
