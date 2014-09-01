@@ -13,6 +13,7 @@
     clear: both;
     bottom: 0;
     width: 100%;
+    overflow-y: scroll;
 }
 .site-header a:link {
     color: #222222; 
