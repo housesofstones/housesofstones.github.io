@@ -1,15 +1,26 @@
 .site-header, .site-footer {
-    background-color: #bbc3cc;
+    background-color: #D9853B;
+}
+.site-header a:link {
+    color: #222222; 
+    text-decoration: none;
+}
+.site-header a:visited {
+    color: #222222;
+    text-decoration: none;
+}
+.site-header a:hover {
+    text-decoration: underline;
 }
 .site-footer p, .site-footer li {
-   color: black; 
+   color: #222222; 
 }
 .site-footer a:link {
-    color: #fffff8;
+    color: #222222;
     text-decoration: none;
 }
 .site-footer a:visited {
-    color: #fffff8;
+    color: #222222;
     text-decoration: none;
 }
 .site-footer a:hover {
