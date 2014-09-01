@@ -111,11 +111,13 @@ body {
 .post-content a:link {
     text-decoration: none;
     font-style: bold;
+    font-size: 17px;
 }
 .post-content a:visited {
     color: #222222;
     text-decoration: none;
     font-style: bold;
+    font-size: 17px;
 }
 .post-content a:hover {
     text-decoration: none;
