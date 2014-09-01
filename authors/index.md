@@ -4,7 +4,7 @@ author: Schaun Wheeler
 layout: page
 ---
 <p style="text-align: left; font-size: 15px;">
-  <strong>Schaun Wheeler</strong> | Data Scientist, Infusive
+  <strong>Schaun Wheeler</strong> | Data Scientist, [Infusive](http://infusive.com/)
 </p>
 
 <p style="text-align: left; font-size: 15px;">
