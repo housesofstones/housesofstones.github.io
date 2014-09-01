@@ -1,6 +1,9 @@
 .site-header, .site-footer {
     background-color: #bbc3cc;
 }
+.site-footer p, .site-footer li {
+   color: black; 
+}
 .site-footer a:link {
     color: #fffff8;
     text-decoration: none;
