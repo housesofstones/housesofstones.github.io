@@ -111,13 +111,15 @@ body {
 .post-content a:link {
     text-decoration: none;
     font-weight: bold;
+    color: #555555;
 }
 .post-content a:visited {
-    color: #222222;
+    color: #555555;
     text-decoration: none;
     font-weight: bold;
 }
 .post-content a:hover {
     text-decoration: none;
     font-weight: bold;
+    color: #555555;
 }
