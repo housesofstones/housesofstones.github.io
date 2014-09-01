@@ -1,6 +1,19 @@
 .site-header, .site-footer {
     background-color: #D9853B;
 }
+.site-header {
+    position: fixed;
+    width: 100%;
+}
+.site-footer {
+    position: fixed;
+    border-top: 0px solid black;
+    height: 60px;
+    padding: 10px 0;
+    clear: both;
+    bottom: 0;
+    width: 100%;
+}
 .site-header a:link {
     color: #222222; 
     text-decoration: none;
@@ -29,6 +42,18 @@
 .site-title {
     font-size: 32px;
 }
+.footer-col-1 {
+    width: calc(20% - (30px / 2));
+}
+.footer-col-2 {
+    width: 0px;
+}
+.footer-col-3 {
+    width: calc(70% - (30px / 2));
+    font-size: 12px;
+}
+
+
 a:link {
     text-decoration: underline;
     color: black;
@@ -52,13 +77,12 @@ a:hover {
 p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
     max-width: 600px;
 }
-
 .post-list {
     width: 100%;
     max-width: 100%;
 }
 .post-list > li {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .post-link {
     font-size: 18px;
@@ -69,39 +93,12 @@ p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
 body {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
-.site-header {
-    position: fixed;
-    width: 100%;
-}
-
 .page-content {
     padding: 100px 0;
     background-color: #fffff8;
 }
-
-.footer-col-1 {
-    width: calc(20% - (30px / 2));
-}
-.footer-col-2 {
-    width: 0px;
-}
-.footer-col-3 {
-    width: calc(70% - (30px / 2));
-    font-size: 12px;
-}
-
 .wrapper {
     max-width: 80%;
-}
-
-.site-footer {
-    position: fixed;
-    border-top: 0px solid black;
-    height: 60px;
-    padding: 10px 0;
-    clear: both;
-    bottom: 0;
-    width: 100%;
 }
 .subscription-list {
     font-size: 12px;
