@@ -108,3 +108,14 @@ body {
     max-width: 600px;
     font-size: 12px;
 }
+.post-content a:link {
+    text-decoration: none;
+}
+.post-content a:visited {
+    color: #222222;
+    text-decoration: none;
+}
+.post-content a:hover {
+    text-decoration: underline;
+    font-size: 18px;
+}
