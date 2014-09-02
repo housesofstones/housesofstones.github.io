@@ -19,10 +19,6 @@ layout: page
   <a href="http://www.linkedin.com/in/schaunwheeler">LinkedIn Profile</a> | <a href="https://twitter.com/SchaunW">Twitter Feed</a> | <a href="https://github.com/schaunwheeler">GitHub Repositories</a> | <a href="http://stackoverflow.com/users/1829950/schaunw">StackOverflow Profile</a>
 </p>
 
-<p style="text-align: left; color: #ffffff;">
-  &#8212;&#8211;
-</p>
-
 <p style="text-align: left; font-size: 15px;" id="pmeinshausen">
   <strong>Paul Meinshausen</strong> | Independent behavioral & data science consultant
 </p>
