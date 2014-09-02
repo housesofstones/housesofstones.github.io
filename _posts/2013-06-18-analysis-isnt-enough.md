@@ -1,6 +1,6 @@
 ---
 title: Analysis isn’t Enough
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2013/06/18/analysis-isnt-enough/
 categories:
