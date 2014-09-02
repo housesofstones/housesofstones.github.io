@@ -5,8 +5,9 @@ layout: default
 <div class="home">
   <ul class="post-list">
     {% for post in site.posts limit: 15 %}
+      {% assign author = site.authors[post.author] %}
       <li>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&nbsp;&nbsp;<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&nbsp;&nbsp;<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ author.display_name }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
       </li>
     {% endfor %}
   </ul>
