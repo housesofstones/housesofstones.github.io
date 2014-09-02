@@ -97,8 +97,11 @@ body {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .page-content {
-    padding: 100px 0;
     background-color: #fffff8;
+    position: absolute;
+    top: 62px;
+    z-index: -1;
+    min-width: 100%;
 }
 .wrapper {
     max-width: 80%;
