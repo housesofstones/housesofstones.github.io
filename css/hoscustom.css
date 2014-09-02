@@ -123,3 +123,15 @@ body {
     font-weight: bold;
     color: #555555;
 }
+.post-meta a:link {
+    text-decoration: none;
+    color: #555555;
+}
+.post-meta a:visited {
+    color: #555555;
+    text-decoration: none;
+}
+.post-meta a:hover {
+    text-decoration: none;
+    color: #555555;
+}
