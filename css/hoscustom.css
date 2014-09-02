@@ -18,25 +18,25 @@
     overflow-y: scroll;
 }
 .site-header a:link {
-    color: #fffff8; 
+    color: white; 
     text-decoration: none;
 }
 .site-header a:visited {
-    color: #fffff8;
+    color: white;
     text-decoration: none;
 }
 .site-header a:hover {
     text-decoration: underline;
 }
 .site-footer p, .site-footer li {
-   color: #fffff8; 
+   color: white; 
 }
 .site-footer a:link {
-    color: #fffff8;
+    color: white;
     text-decoration: none;
 }
 .site-footer a:visited {
-    color: #fffff8;
+    color: white;
     text-decoration: none;
 }
 .site-footer a:hover {
@@ -97,7 +97,7 @@ body {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .page-content {
-    background-color: #fffff8;
+    background-color: #fffffb;
     position: absolute;
     top: 56px;
     z-index: -1;
