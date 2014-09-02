@@ -1,6 +1,6 @@
 ---
 title: Analytic modesty in the face of poor performance
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/03/12/analytic-modesty-in-the-face-of-poor-performance/
 jabber_published:

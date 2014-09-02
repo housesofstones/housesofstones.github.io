@@ -1,6 +1,6 @@
 ---
 title: 'The Value of Reproducible Research: Sometimes the response matters more than the results'
-author: Paul Meinshausen
+author: pmeinshausen
 layout: post
 permalink: /2012/12/06/the-value-of-reproducible-research-sometimes-the-response-matters-more-than-the-results/
 jabber_published:

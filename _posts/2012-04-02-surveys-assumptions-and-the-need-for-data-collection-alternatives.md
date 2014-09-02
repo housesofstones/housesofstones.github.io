@@ -1,6 +1,6 @@
 ---
 title: Surveys, Assumptions, and the Need for Data Collection Alternatives
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/04/02/surveys-assumptions-and-the-need-for-data-collection-alternatives/
 jabber_published:

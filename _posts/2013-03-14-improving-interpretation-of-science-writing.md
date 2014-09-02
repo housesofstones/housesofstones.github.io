@@ -1,6 +1,6 @@
 ---
 title: Improving Interpretation of Science Writing
-author: Paul Meinshausen
+author: pmeinshausen
 layout: post
 permalink: /2013/03/14/improving-interpretation-of-science-writing/
 jabber_published:

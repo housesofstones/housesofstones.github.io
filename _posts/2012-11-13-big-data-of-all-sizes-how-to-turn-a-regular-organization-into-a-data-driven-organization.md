@@ -1,6 +1,6 @@
 ---
 title: 'Big Data of all sizes: how to turn a regular organization into a data-driven organization'
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/11/13/big-data-of-all-sizes-how-to-turn-a-regular-organization-into-a-data-driven-organization/
 jabber_published:

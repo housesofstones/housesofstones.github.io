@@ -1,6 +1,6 @@
 ---
 title: The qualitative/quantitative divide is sort of useless. Focus on replicability instead.
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/05/09/the-qualitativequantitative-divide-is-sort-of-useless-focus-on-replicability-instead/
 jabber_published:

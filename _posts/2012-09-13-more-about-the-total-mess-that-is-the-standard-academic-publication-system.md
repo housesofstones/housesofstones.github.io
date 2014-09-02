@@ -1,6 +1,6 @@
 ---
 title: More about the total mess that is the standard academic publication system
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/09/13/more-about-the-total-mess-that-is-the-standard-academic-publication-system/
 jabber_published:

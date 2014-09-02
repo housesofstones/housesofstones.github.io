@@ -1,6 +1,6 @@
 ---
 title: Cognition and behavior (getting to different ends from the same beginning)
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2013/02/27/cognition-and-behavior-getting-to-different-ends-from-the-same-beginning/
 jabber_published:

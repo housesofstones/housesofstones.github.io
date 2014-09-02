@@ -1,6 +1,6 @@
 ---
 title: 'Bottom-up creation of data-driven capabilities: weak supporters *10 = strong support'
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/11/28/bottom-up-creation-of-data-driven-capabilities-weak-supporters-10-strong-support/
 jabber_published:

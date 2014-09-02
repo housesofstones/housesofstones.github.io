@@ -1,6 +1,6 @@
 ---
 title: My problematic relationship with theory
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/02/27/my-problematic-relationship-with-theory/
 jabber_published:

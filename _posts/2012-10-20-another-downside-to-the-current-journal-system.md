@@ -1,6 +1,6 @@
 ---
 title: Another Downside to the Current Journal System
-author: Paul Meinshausen
+author: pmeinshausen
 layout: post
 permalink: /2012/10/20/another-downside-to-the-current-journal-system/
 jabber_published:

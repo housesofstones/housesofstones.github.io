@@ -1,6 +1,6 @@
 ---
 title: Data science? Yes, please. Data scientist? Meh.
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2013/02/11/data-science-yes-please-data-scientist-meh/
 jabber_published:

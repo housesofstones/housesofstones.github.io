@@ -1,6 +1,6 @@
 ---
 title: 'Bottom-up creation of data-driven capabilities: show don’t tell'
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/12/05/bottom-up-creation-of-data-driven-capabilities-show-dont-tell/
 jabber_published:

@@ -1,6 +1,6 @@
 ---
 title: 'What happens in society, stays in &#8230;the brain?'
-author: Paul Meinshausen
+author: pmeinshausen
 layout: post
 permalink: /2013/02/28/what-happens-in-society-stays-in-the-brain/
 jabber_published:

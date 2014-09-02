@@ -1,6 +1,6 @@
 ---
 title: Trying to figure out why I don’t want to call myself a data scientist
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/09/06/trying-to-figure-out-why-i-dont-want-to-call-myself-a-data-scientist/
 email_notification:

@@ -1,6 +1,6 @@
 ---
 title: 'Why the best ideas sometimes don&#8217;t seem very good'
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/02/22/why-the-best-ideas-sometimes-dont-seem-very-good/
 jabber_published:

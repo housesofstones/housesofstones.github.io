@@ -1,6 +1,6 @@
 ---
 title: Why defenses of unsystematic methods often undermine those methods instead
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/08/20/why-defenses-of-unsystematic-methods-often-undermine-those-methods-instead/
 jabber_published:

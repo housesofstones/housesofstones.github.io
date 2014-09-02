@@ -1,6 +1,6 @@
 ---
 title: Social scientists sometimes have kind of a weird view of their own relevance
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/10/04/social-scientists-sometimes-have-kind-of-a-weird-view-of-their-own-relevance/
 jabber_published:

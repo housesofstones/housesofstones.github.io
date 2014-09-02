@@ -1,6 +1,6 @@
 ---
 title: 'Quickly read Excel worksheets into R (Windows only&#8230;sorry)'
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2013/06/18/quickly-read-excel-worksheets-into-r-windows-only-sorry/
 categories:

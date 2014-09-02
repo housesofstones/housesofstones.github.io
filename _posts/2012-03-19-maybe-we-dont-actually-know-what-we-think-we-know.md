@@ -1,6 +1,6 @@
 ---
 title: Maybe we don’t actually know what we think we know
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/03/19/maybe-we-dont-actually-know-what-we-think-we-know/
 jabber_published:

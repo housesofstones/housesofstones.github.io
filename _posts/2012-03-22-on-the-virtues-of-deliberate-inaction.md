@@ -1,6 +1,6 @@
 ---
 title: On the virtues of deliberate inaction
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/03/22/on-the-virtues-of-deliberate-inaction/
 jabber_published:

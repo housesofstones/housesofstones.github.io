@@ -1,6 +1,6 @@
 ---
 title: Anthropology and data science need each other
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2013/07/09/anthropology-and-data-science-need-each-other/
 categories:

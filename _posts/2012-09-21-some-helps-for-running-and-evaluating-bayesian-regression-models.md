@@ -1,6 +1,6 @@
 ---
 title: Some helps for running and evaluating Bayesian regression models
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/09/21/some-helps-for-running-and-evaluating-bayesian-regression-models/
 jabber_published:

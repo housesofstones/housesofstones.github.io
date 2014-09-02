@@ -1,6 +1,6 @@
 ---
 title: 'Bottom-up creation of data-driven capabilities: automate your work'
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/11/15/bottom-up-creation-of-data-driven-capabilities-automate-your-work/
 jabber_published:

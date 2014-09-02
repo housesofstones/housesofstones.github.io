@@ -1,6 +1,6 @@
 ---
 title: A numerical heuristic is still just a heuristic
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/02/14/a-numerical-heuristic-is-still-just-a-heuristic/
 jabber_published:

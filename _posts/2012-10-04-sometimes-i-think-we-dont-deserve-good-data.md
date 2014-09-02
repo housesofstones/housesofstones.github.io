@@ -1,6 +1,6 @@
 ---
 title: Sometimes I think we don’t deserve good data
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/10/04/sometimes-i-think-we-dont-deserve-good-data/
 jabber_published:

@@ -1,6 +1,6 @@
 ---
 title: Slightly-more-than-basic sentiment analysis
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/09/14/slightly-more-than-basic-sentiment-analysis/
 jabber_published:

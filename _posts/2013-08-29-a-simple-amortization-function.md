@@ -1,6 +1,6 @@
 ---
 title: A simple amortization function
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2013/08/29/a-simple-amortization-function/
 categories:

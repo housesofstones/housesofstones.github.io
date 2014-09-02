@@ -1,6 +1,6 @@
 ---
 title: We don’t need better research. We need more research (with search options).
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/06/13/we-dont-need-better-research-we-need-more-research-with-search-options/
 jabber_published:

@@ -1,6 +1,6 @@
 ---
 title: Visualizing and Ranking Tourist Inequality
-author: Paul Meinshausen
+author: pmeinshausen
 layout: post
 permalink: /2013/05/16/visualizing-and-ranking-tourist-inequality/
 categories:

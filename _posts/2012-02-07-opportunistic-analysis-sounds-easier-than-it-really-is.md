@@ -1,6 +1,6 @@
 ---
 title: '&#8220;Opportunistic analysis&#8221; sounds easier than it really is'
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/02/07/opportunistic-analysis-sounds-easier-than-it-really-is/
 jabber_published:

@@ -1,6 +1,6 @@
 ---
 title: Surveys measure what people do, not what people think
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/04/13/surveys-measure-what-people-do-not-what-people-think/
 jabber_published:

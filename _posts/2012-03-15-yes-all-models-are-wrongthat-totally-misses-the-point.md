@@ -1,6 +1,6 @@
 ---
 title: Yes, all models are wrong…that totally misses the point
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/03/15/yes-all-models-are-wrongthat-totally-misses-the-point/
 jabber_published:

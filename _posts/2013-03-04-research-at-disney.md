@@ -1,6 +1,6 @@
 ---
 title: Research at Disney
-author: Paul Meinshausen
+author: pmeinshausen
 layout: post
 permalink: /2013/03/04/research-at-disney/
 jabber_published:

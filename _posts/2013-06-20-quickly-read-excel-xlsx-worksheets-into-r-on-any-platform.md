@@ -1,6 +1,6 @@
 ---
 title: Quickly read Excel (xlsx) worksheets into R on any platform
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2013/06/20/quickly-read-excel-xlsx-worksheets-into-r-on-any-platform/
 categories:

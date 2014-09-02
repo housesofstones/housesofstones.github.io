@@ -1,6 +1,6 @@
 ---
 title: Science is more than its methods (but social science currently isn’t)
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/12/10/science-is-more-than-its-methods-but-social-science-currently-isnt/
 jabber_published:

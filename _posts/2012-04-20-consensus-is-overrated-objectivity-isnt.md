@@ -1,6 +1,6 @@
 ---
 title: Consensus is overrated. Objectivity isn’t.
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/04/20/consensus-is-overrated-objectivity-isnt/
 jabber_published:

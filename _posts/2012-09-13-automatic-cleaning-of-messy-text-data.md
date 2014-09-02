@@ -1,6 +1,6 @@
 ---
 title: Automatic cleaning of messy text data
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/09/13/automatic-cleaning-of-messy-text-data/
 jabber_published:

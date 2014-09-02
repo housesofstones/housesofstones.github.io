@@ -1,6 +1,6 @@
 ---
 title: Good research usually needs walls. Really hard ones.
-author: Schaun Wheeler
+author: swheeler
 layout: post
 permalink: /2012/01/29/good-research-usually-needs-walls-hard-ones/
 jabber_published:
