@@ -3,7 +3,7 @@ title: Authors
 author: Schaun Wheeler
 layout: page
 ---
-<p style="text-align: left; font-size: 15px;">
+<p style="text-align: left; font-size: 15px;" id="swheeler">
   <strong>Schaun Wheeler</strong> | Data Scientist, <a href="http://infusive.com/">Infusive</a>
 </p>
 
@@ -23,7 +23,7 @@ layout: page
   &#8212;&#8211;
 </p>
 
-<p style="text-align: left; font-size: 15px;">
+<p style="text-align: left; font-size: 15px;" id="pmeinshausen">
   <strong>Paul Meinshausen</strong> | Independent behavioral & data science consultant
 </p>
 
