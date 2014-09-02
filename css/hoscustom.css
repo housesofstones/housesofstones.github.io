@@ -99,9 +99,10 @@ body {
 .page-content {
     background-color: #fffff8;
     position: absolute;
-    top: 62px;
+    top: 56px;
     z-index: -1;
     min-width: 100%;
+    padding: 0px;
 }
 .wrapper {
     max-width: 80%;
