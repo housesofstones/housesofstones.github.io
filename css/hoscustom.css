@@ -1,5 +1,5 @@
 .site-header, .site-footer {
-    background-color: #D9853B;
+    background-color: #585858;
     border-top: 0px solid transparent;
     border-bottom: 0px solid transparent;
 }
@@ -18,25 +18,25 @@
     overflow-y: scroll;
 }
 .site-header a:link {
-    color: #222222; 
+    color: #fffff8; 
     text-decoration: none;
 }
 .site-header a:visited {
-    color: #222222;
+    color: #fffff8;
     text-decoration: none;
 }
 .site-header a:hover {
     text-decoration: underline;
 }
 .site-footer p, .site-footer li {
-   color: #222222; 
+   color: #fffff8; 
 }
 .site-footer a:link {
-    color: #222222;
+    color: #fffff8;
     text-decoration: none;
 }
 .site-footer a:visited {
-    color: #222222;
+    color: #fffff8;
     text-decoration: none;
 }
 .site-footer a:hover {
@@ -59,10 +59,10 @@
 
 a:link {
     text-decoration: underline;
-    color: black;
+    color: #585858;
 }
 a:visited {
-    color: black;
+    color: #585858;
 }
 a:hover {
     text-decoration: underline;
@@ -117,29 +117,29 @@ body {
 .post-content a:link {
     text-decoration: none;
     font-weight: bold;
-    color: #555555;
+    color: #585858;
 }
 .post-content a:visited {
-    color: #555555;
+    color: #585858;
     text-decoration: none;
     font-weight: bold;
 }
 .post-content a:hover {
     text-decoration: none;
     font-weight: bold;
-    color: #555555;
+    color: #585858;
 }
 .post-meta a:link {
     text-decoration: none;
-    color: #555555;
+    color: #585858;
 }
 .post-meta a:visited {
-    color: #555555;
+    color: #585858;
     text-decoration: none;
 }
 .post-meta a:hover {
     text-decoration: none;
-    color: #555555;
+    color: #585858;
 }
 #swheeler, #pmeinshausen {
     padding-top: 56px;
