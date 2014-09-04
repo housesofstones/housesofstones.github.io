@@ -113,7 +113,7 @@ body {
     font-size: 12px;
 }
 .gist {
-    max-width: 80%;
+    max-width: 90%;
     font-size: 12px;
 }
 .post-content a:link {
@@ -201,7 +201,10 @@ body {
     .site-title {
        font-size: 32px;
     }
-    .post-content, .gist {
+    .post-content {
         max-width: 55%;
+    }
+    .gist {
+        max-width: 75%;
     }
 }
