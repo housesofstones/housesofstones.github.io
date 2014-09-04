@@ -151,7 +151,7 @@ body {
         max-width: 90%;
     }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 605px) {
     .site-nav { 
         position: absolute; 
         top: 9px; 
@@ -189,15 +189,6 @@ body {
       display: block; 
       padding: 5px 10px; 
   }
-  .site-title {
-      font-size: 28px;
-  }
-}
-
-@media screen and (max-width: 450px) {
-    .site-title {
-          font-size: 24px;
-    }
     .footer-col-1 {
         width: 100%;
     }    
