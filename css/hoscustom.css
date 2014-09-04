@@ -151,7 +151,7 @@ body {
         max-width: 90%;
     }
 }
-@media screen and (max-width: 605px) {
+@media screen and (max-width: 610px) {
     .site-nav { 
         position: absolute; 
         top: 9px; 
@@ -194,5 +194,8 @@ body {
     }    
     .footer-col-3 {
         display: none;
-    }    
+    }  
+    .site-footer {
+        height: 40px;
+    }
 }
