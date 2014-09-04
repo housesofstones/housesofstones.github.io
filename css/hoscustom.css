@@ -147,6 +147,11 @@ body {
     padding-top: 56px;
 }
 @media screen and (max-width: 900px) {
+    .wrapper {
+        max-width: 90%;
+    }
+}
+@media screen and (max-width: 600px) {
     .site-nav { 
         position: absolute; 
         top: 9px; 
@@ -184,14 +189,15 @@ body {
       display: block; 
       padding: 5px 10px; 
   }
-}
-@media screen and (max-width: 600px) {
-    .site-title {
-        font-size: 20px;
-    }
+  .site-title {
+      font-size: 28px;
+  }
 }
 
-@media screen and (max-width: 675px) {
+@media screen and (max-width: 450px) {
+    .site-title {
+          font-size: 24px;
+    }
     .footer-col-1 {
         width: 100%;
     }    
