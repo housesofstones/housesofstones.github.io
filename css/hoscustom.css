@@ -97,7 +97,7 @@ body {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .page-content {
-    background-color: #fffffb;
+    background-color: white;
     position: absolute;
     top: 56px;
     z-index: -1;
