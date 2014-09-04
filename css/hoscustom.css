@@ -79,7 +79,7 @@ a:hover {
 .post-list a:hover {
     text-decoration: underline;
 }
-p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
+.post-content {
     max-width: 80%;
 }
 .post-list {
@@ -113,7 +113,7 @@ body {
     font-size: 12px;
 }
 .gist {
-    max-width: 600px;
+    max-width: 80%;
     font-size: 12px;
 }
 .post-content a:link {
@@ -201,8 +201,7 @@ body {
     .site-title {
        font-size: 32px;
     }
-    p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
-       max-width: 55%;
+    .post-content, .gist {
+        max-width: 55%;
     }
-}
 }
