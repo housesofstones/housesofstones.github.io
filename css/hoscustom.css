@@ -198,4 +198,8 @@ body {
     .site-footer {
         height: 30px;
     }
+    .site-title {
+       font-size: 32px;
+    }
+}
 }
