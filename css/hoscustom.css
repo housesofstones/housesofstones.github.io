@@ -146,9 +146,18 @@ body {
 #swheeler, #pmeinshausen {
     padding-top: 56px;
 }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 900px) {
     .site-nav {
         background-color: black;
         border: 0px solid #e8e8e8;
     }
+.site-title {
+    font-size: 20px;
+}
+.footer-col-3 {
+    width: 100%;
+}    
+.footer-col-3 {
+    display: none;
+}    
 }
