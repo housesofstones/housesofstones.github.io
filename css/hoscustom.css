@@ -189,6 +189,9 @@ body {
     .site-title {
         font-size: 20px;
     }
+}
+
+@media screen and (max-width: 675px) {
     .footer-col-1 {
         width: 100%;
     }    
