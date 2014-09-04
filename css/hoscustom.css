@@ -80,7 +80,7 @@ a:hover {
     text-decoration: underline;
 }
 p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
-    max-width: 600px;
+    max-width: 80%;
 }
 .post-list {
     width: 100%;
@@ -200,6 +200,9 @@ body {
     }
     .site-title {
        font-size: 32px;
+    }
+    p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
+       max-width: 55%;
     }
 }
 }
