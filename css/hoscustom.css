@@ -144,8 +144,9 @@ body {
 #swheeler, #pmeinshausen {
     padding-top: 56px;
 }
-@media screen and (max-width: 900px)
-.site-nav {
-    background-color: black;
-    border: 0px solid #e8e8e8;
+@media screen and (max-width: 900px) {
+    .site-nav {
+        background-color: black;
+        border: 0px solid #e8e8e8;
+    }
 }
