@@ -8,7 +8,7 @@ permalink: /2014/09/08/d3-chart-and-table/
 
 This is a draft
 
-<script src="https://github.com/housesofstones.github.io/blob/master/js/bootstrap.js"
+<script src="https://github.com/housesofstones.github.io/blob/master/js/bootstrap.js"></script>
 
 <div class="btn-group">
   <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
