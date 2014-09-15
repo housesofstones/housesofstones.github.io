@@ -1,9 +1,9 @@
 {
     "name": "Analytical Functions",
-    "contents": [
+    "children": [
         {
             "name": "Time Series, Path and Attribution Analysis",
-            "contents": [
+            "children": [
                 {"name": "Attribution" },
                 {"name": "Cumulative Moving Average" },
                 {"name": "Dynamic time warping" },
@@ -22,13 +22,13 @@
         },
         {
             "name": "Pattern Matching with Teradata Aster nPath",
-            "contents": [
+            "children": [
                 {"name": "nPath" }
             ]
         },
         {
             "name": "Statistical Analysis",
-            "contents": [
+            "children": [
                 {"name": "Approximate Distinct Count" },
                 {"name": "Approximate Percentile" },
                 {"name": "ConfusionMatrix" },
@@ -54,7 +54,7 @@
         },
         {
             "name": "Text Analysis",
-            "contents": [
+            "children": [
                 {"name": "Latent Dirichlet Allocation Functions" },
                 {"name": "Levenshtein Distance" },
                 {"name": "Naive Bayes Text Classifier" },
@@ -74,7 +74,7 @@
         },
         {
             "name": "Cluster Analysis",
-            "contents": [
+            "children": [
                 {"name": "Canopy" },
                 {"name": "KMeans" },
                 {"name": "KMeansPlot" },
@@ -83,7 +83,7 @@
         },
         {
             "name": "Naive Bayes",
-            "contents": [
+            "children": [
                 {"name": "NaiveBayesMap" },
                 {"name": "NaiveBayesReduce" },
                 {"name": "NaiveBayesPredict" }
@@ -91,14 +91,14 @@
         },
         {
             "name": "Decision Trees",
-            "contents": [
+            "children": [
                 {"name": "Random Forest Functions" },
                 {"name": "Single Decision Tree Functions" }
             ]
         },
         {
             "name": "Association Analysis",
-            "contents": [
+            "children": [
                 {"name": "Basket_Generator" },
                 {"name": "Collaborative Filtering" },
                 {"name": "Weighted-sum Recommender" }
@@ -106,7 +106,7 @@
         },
         {
             "name": "Graph Analysis",
-            "contents": [
+            "children": [
                 {"name": "AllPairsShortestPath" },
                 {"name": "Betweenness" },
                 {"name": "Closeness" },
@@ -119,7 +119,7 @@
         },
         {
             "name": "Data Transformation",
-            "contents": [
+            "children": [
                 {"name": "Antiselect" },
                 {"name": "Apache Log Parser" },
                 {"name": "IdentityMatch" },
@@ -139,7 +139,7 @@
         },
         {
             "name": "Visualization",
-            "contents": [
+            "children": [
                 {"name": "CfilterViz" },
                 {"name": "NpathViz" }
             ]
