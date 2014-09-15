@@ -48,7 +48,7 @@ layout: page
       .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    d3.json("housesofstones.github.io/projects/aster_functions.json", function(error, flare) {
+    d3.json("aster_functions.json", function(error, flare) {
       root = flare;
       root.x0 = height / 2;
       root.y0 = 0;
