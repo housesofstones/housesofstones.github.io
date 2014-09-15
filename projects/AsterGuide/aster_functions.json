@@ -1,0 +1,148 @@
+{
+    "name": "Analytical Functions",
+    "contents": [
+        {
+            "name": "Time Series, Path and Attribution Analysis",
+            "contents": [
+                {"name": "Attribution" },
+                {"name": "Cumulative Moving Average" },
+                {"name": "Dynamic time warping" },
+                {"name": "Discrete Wavelet Transform" },
+                {"name": "Discrete Wavelet Transform 2" },
+                {"name": "FrequentPaths" },
+                {"name": "Inverse Discrete Wavelet Transform" },
+                {"name": "Inverse Discrete Wavelet Transform 2" },
+                {"name": "Path_Analyzer" },
+                {"name": "Path_Generator" },
+                {"name": "Path_Start" },
+                {"name": "Path_Summarizer" },
+                {"name": "Symbolic Aggregate Approximation" },
+                {"name": "Sessionization" }
+            ]
+        },
+        {
+            "name": "Pattern Matching with Teradata Aster nPath",
+            "contents": [
+                {"name": "nPath" }
+            ]
+        },
+        {
+            "name": "Statistical Analysis",
+            "contents": [
+                {"name": "Approximate Distinct Count" },
+                {"name": "Approximate Percentile" },
+                {"name": "ConfusionMatrix" },
+                {"name": "Correlation" },
+                {"name": "Distribution Matching" },
+                {"name": "Exponential moving average" },
+                {"name": "Enhanced Histogram" },
+                {"name": "FMeasure" },
+                {"name": "Generalized linear model" },
+                {"name": "GLMPredict" },
+                {"name": "Histogram" },
+                {"name": "K-Nearest Neighbor" },
+                {"name": "Least Angle Regression" },
+                {"name": "Linear regression" },
+                {"name": "Percentile" },
+                {"name": "Principal Component Analysis" },
+                {"name": "Sample" },
+                {"name": "Simple Moving Average" },
+                {"name": "Support Vector Machines" },
+                {"name": "Volume-Weighted Average Price" },
+                {"name": "Weighted moving average" }
+            ]
+        },
+        {
+            "name": "Text Analysis",
+            "contents": [
+                {"name": "Latent Dirichlet Allocation Functions" },
+                {"name": "Levenshtein Distance" },
+                {"name": "Naive Bayes Text Classifier" },
+                {"name": "Named Entity Recognition" },
+                {"name": "nGram" },
+                {"name": "Part-of-speech Tagger" },
+                {"name": "Sentenizer" },
+                {"name": "Sentiment Extraction Functions" },
+                {"name": "Term Frequency - Inverse Document Frequency" },
+                {"name": "Text_Classifier" },
+                {"name": "Text_Parser" },
+                {"name": "TextChunker" },
+                {"name": "TextMorph" },
+                {"name": "TextTagging" },
+                {"name": "TextTokenizer" } 
+            ]
+        },
+        {
+            "name": "Cluster Analysis",
+            "contents": [
+                {"name": "Canopy" },
+                {"name": "KMeans" },
+                {"name": "KMeansPlot" },
+                {"name": "Minhash" }
+            ]
+        },
+        {
+            "name": "Naive Bayes",
+            "contents": [
+                {"name": "NaiveBayesMap" },
+                {"name": "NaiveBayesReduce" },
+                {"name": "NaiveBayesPredict" }
+            ]
+        },
+        {
+            "name": "Decision Trees",
+            "contents": [
+                {"name": "Random Forest Functions" },
+                {"name": "Single Decision Tree Functions" }
+            ]
+        },
+        {
+            "name": "Association Analysis",
+            "contents": [
+                {"name": "Basket_Generator" },
+                {"name": "Collaborative Filtering" },
+                {"name": "Weighted-sum Recommender" }
+            ]
+        },
+        {
+            "name": "Graph Analysis",
+            "contents": [
+                {"name": "AllPairsShortestPath" },
+                {"name": "Betweenness" },
+                {"name": "Closeness" },
+                {"name": "EigenvectorCentrality" },
+                {"name": "LocalClusteringCoefficient" },
+                {"name": "LoopyBeliefPropagation" },
+                {"name": "nTree" },
+                {"name": "PageRank" } 
+            ]
+        },
+        {
+            "name": "Data Transformation",
+            "contents": [
+                {"name": "Antiselect" },
+                {"name": "Apache Log Parser" },
+                {"name": "IdentityMatch" },
+                {"name": "IpGeo" },
+                {"name": "JSONParser" },
+                {"name": "Multicase" },
+                {"name": "MurmurHash" },
+                {"name": "OutlierFilter" },
+                {"name": "PSTParserAFS" },
+                {"name": "Pack" },
+                {"name": "Pivot" },
+                {"name": "Unpack" },
+                {"name": "Unpivot" },
+                {"name": "XMLParser" },
+                {"name": "XMLRelation" }
+            ]
+        },
+        {
+            "name": "Visualization",
+            "contents": [
+                {"name": "CfilterViz" },
+                {"name": "NpathViz" }
+            ]
+        }
+    ]
+}
