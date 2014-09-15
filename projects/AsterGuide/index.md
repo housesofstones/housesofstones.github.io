@@ -42,7 +42,7 @@ layout: page
     var diagonal = d3.svg.diagonal()
         .projection(function(d) { return [d.y, d.x]; });
 
-    var svg = d3.select("body").append("svg")
+    var svg = d3.select("div#example").append("svg")
         .attr("width", width + margin.right + margin.left)
         .attr("height", height + margin.top + margin.bottom)
       .append("g")
@@ -156,4 +156,4 @@ layout: page
 
 </script>
 
-<body></body>
+<div id="example"></div>
