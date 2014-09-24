@@ -127,7 +127,7 @@ body {
     margin-bottom: 56px;
 }
 .wrapper {
-    max-width: 60%;
+    max-width: 60vw;
 }
 .subscription-list {
     font-size: 12px;
@@ -189,35 +189,35 @@ body {
         border-radius: 5px; 
         text-align: right; 
     }
-  .site-nav .menu-icon { 
-      display: block; 
-      float: right; 
-      width: 36px; 
-      height: 26px; 
-      line-height: 0; 
-      padding-top: 10px; 
-      text-align: center; 
-  }
-  .site-nav .menu-icon > svg { 
-      width: 18px; 
-      height: 15px; 
-  }
-  .site-nav .menu-icon > svg path { 
-      fill: white; 
-  }
-  .site-nav .trigger { 
-      clear: both; 
-      display: none; 
-  }
-  .site-nav:hover .trigger { 
-      display: block; 
-      padding-bottom: 5px; 
-  }
+    .site-nav .menu-icon { 
+        display: block; 
+        float: right; 
+        width: 36px; 
+        height: 26px; 
+        line-height: 0; 
+        padding-top: 10px; 
+        text-align: center; 
+    }
+    .site-nav .menu-icon > svg { 
+        width: 18px; 
+        height: 15px; 
+    }
+    .site-nav .menu-icon > svg path { 
+        fill: white; 
+    }
+    .site-nav .trigger { 
+        clear: both; 
+        display: none; 
+    }
+    .site-nav:hover .trigger { 
+        display: block; 
+        padding-bottom: 5px; 
+    }
     .site-nav .page-link { 
         display: block; 
         padding: 5px 10px; 
         color: black !important;
-  }
+    }
     .footer-col-1 {
         width: 100%;
     }    
