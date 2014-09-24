@@ -26,11 +26,8 @@
 .site-header {
     position: fixed;
     width: 100%;
-<<<<<<< HEAD
     box-shadow: 0px 2px 2px #888888;
-=======
     max-height: 56px;
->>>>>>> FETCH_HEAD
 }
 .site-footer {
     position: fixed;
@@ -179,7 +176,7 @@ body {
     .site-nav .page-link {
         color: black !important;
         text-decoration: none !important;
-=======
+
 @media screen and (max-width: 900px) {
     .wrapper {
         max-width: 90%;
@@ -244,6 +241,5 @@ body {
     }
     .gist {
         max-width: 99%;
->>>>>>> FETCH_HEAD
     }
 }
