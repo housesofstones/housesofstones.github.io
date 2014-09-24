@@ -126,9 +126,6 @@ body {
     min-width: 100%;
     margin-bottom: 56px;
 }
-.wrapper {
-    max-width: 60vw;
-}
 .subscription-list {
     font-size: 12px;
 }
