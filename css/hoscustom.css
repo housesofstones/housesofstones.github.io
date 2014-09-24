@@ -176,7 +176,8 @@ body {
     .site-nav .page-link {
         color: black !important;
         text-decoration: none !important;
-
+    }
+}
 @media screen and (max-width: 900px) {
     .wrapper {
         max-width: 90%;
