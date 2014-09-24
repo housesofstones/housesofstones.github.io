@@ -79,7 +79,6 @@
     font-size: 12px;
 }
 
-
 a:link {
     text-decoration: underline;
     color: #585858;
@@ -167,23 +166,17 @@ body {
 #swheeler, #pmeinshausen {
     padding-top: 56px;
 }
-<<<<<<< HEAD
+
 .site-nav .page-link{
     color: white !important;
     text-decoration: none !important;
 }
-@media (max-width: 600px) {
-    .site-nav .page-link {
-        color: black !important;
-        text-decoration: none !important;
-    }
-}
 @media screen and (max-width: 900px) {
     .wrapper {
-        max-width: 150vw;
+        width: 99vw;
     }
     .gist, .post-content, .page-content {
-        max-width: 125vw;
+        width: 99vw;
     }
 }
 @media screen and (max-width: 610px) {
@@ -220,9 +213,10 @@ body {
       display: block; 
       padding-bottom: 5px; 
   }
-  .site-nav .page-link { 
-      display: block; 
-      padding: 5px 10px; 
+    .site-nav .page-link { 
+        display: block; 
+        padding: 5px 10px; 
+        color: black !important;
   }
     .footer-col-1 {
         width: 100%;
