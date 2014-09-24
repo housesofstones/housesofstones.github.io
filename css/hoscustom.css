@@ -26,7 +26,11 @@
 .site-header {
     position: fixed;
     width: 100%;
+<<<<<<< HEAD
     box-shadow: 0px 2px 2px #888888;
+=======
+    max-height: 56px;
+>>>>>>> FETCH_HEAD
 }
 .site-footer {
     position: fixed;
@@ -37,6 +41,7 @@
     bottom: 0;
     width: 100%;
     overflow-y: scroll;
+    max-height: 80px;
 }
 .site-header a:link {
     color: white;
@@ -98,8 +103,8 @@ a:hover {
 .post-list a:hover {
     text-decoration: underline;
 }
-p, blockquote, pre, hr, dl, dd, ol, ul, figure, .highlight {
-    max-width: 600px;
+.post-content {
+    max-width: 80%;
 }
 .post-list {
     width: 100%;
@@ -118,7 +123,7 @@ body {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .page-content {
-    background-color: #fffffb;
+    background-color: white;
     position: absolute;
     top: 56px;
     z-index: -1;
@@ -126,13 +131,13 @@ body {
     margin-bottom: 56px;
 }
 .wrapper {
-    max-width: 80%;
+    max-width: 60%;
 }
 .subscription-list {
     font-size: 12px;
 }
 .gist {
-    max-width: 600px;
+    max-width: 99%;
     font-size: 12px;
 }
 .post-content a:link {
@@ -165,6 +170,7 @@ body {
 #swheeler, #pmeinshausen {
     padding-top: 56px;
 }
+<<<<<<< HEAD
 .site-nav .page-link{
     color: white !important;
     text-decoration: none !important;
@@ -173,5 +179,71 @@ body {
     .site-nav .page-link {
         color: black !important;
         text-decoration: none !important;
+=======
+@media screen and (max-width: 900px) {
+    .wrapper {
+        max-width: 90%;
+    }
+}
+@media screen and (max-width: 610px) {
+    .site-nav { 
+        position: absolute; 
+        top: 9px; 
+        right: 30px; 
+        background-color: black; 
+        border: 0px solid transparent; 
+        border-radius: 5px; 
+        text-align: right; 
+    }
+  .site-nav .menu-icon { 
+      display: block; 
+      float: right; 
+      width: 36px; 
+      height: 26px; 
+      line-height: 0; 
+      padding-top: 10px; 
+      text-align: center; 
+  }
+  .site-nav .menu-icon > svg { 
+      width: 18px; 
+      height: 15px; 
+  }
+  .site-nav .menu-icon > svg path { 
+      fill: white; 
+  }
+  .site-nav .trigger { 
+      clear: both; 
+      display: none; 
+  }
+  .site-nav:hover .trigger { 
+      display: block; 
+      padding-bottom: 5px; 
+  }
+  .site-nav .page-link { 
+      display: block; 
+      padding: 5px 10px; 
+  }
+    .footer-col-1 {
+        width: 100%;
+    }    
+    .footer-col-3 {
+        display: none;
+    }  
+    .site-footer {
+        height: 30px;
+    }
+    .site-title {
+       font-size: 32px;
+    }
+    .post-title {
+       max-width: 75%;
+    }
+    
+    .post-content {
+        max-width: 55%;
+    }
+    .gist {
+        max-width: 99%;
+>>>>>>> FETCH_HEAD
     }
 }

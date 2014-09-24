@@ -20,11 +20,11 @@ layout: page
 </p>
 
 <p style="text-align: left; font-size: 15px;" id="pmeinshausen">
-  <strong>Paul Meinshausen</strong> | Independent behavioral & data science consultant
+  <strong>Paul Meinshausen</strong> | Principal Data Scientist, <a href="http://www.teradata.com">Teradata, International</a>
 </p>
 
 <p style="text-align: left; font-size: 15px;">
-  I'm a data scientist with an academic research background in anthropology and social psychology. I like work that combines rigorous descriptive and inferential statistics, machine learning, and algorithmic decision-making with behavioral science and ethnography. I've worked as an analyst and research scientist for the U.S. Deparment of the Army, the International Security Assistance Force in Afghanistan, and the Psychology Department and Safra Center for Ethics at Harvard University. As a data science consultant I've worked with data science and gamification startups, and with data from mobile phones and sensor-systems, peer-to-peer lending platforms, healthcare cost-reporting, and restaurant and hotel reviews. I was a 2013 Eric and Wendy Schmidt Data Science for Social Good Fellow with the Computation Institute at the University of Chicago. I'm currently based in Singapore, but I've also lived, spent time, and worked in Turkey, Afghanistan, India, and Thailand.
+  I'm a data scientist with an academic research background in anthropology and social psychology. I like work that combines rigorous descriptive and inferential statistics, machine learning, and algorithmic decision-making with behavioral science and ethnography. I've worked as an analyst and research scientist for the U.S. Deparment of the Army, the International Security Assistance Force in Afghanistan, and the Psychology Department and Safra Center for Ethics at Harvard University. As a data science consultant I've worked with data science and gamification startups, and with data from mobile phones and sensor-systems, peer-to-peer lending platforms, healthcare cost-reporting, and restaurant and hotel reviews. I was a 2013 Eric and Wendy Schmidt Data Science for Social Good Fellow with the Computation Institute at the University of Chicago. I'm currently based in Singapore and Mumbai.
 </p>
 
 <p style="text-align: left; font-size: 15px;">
