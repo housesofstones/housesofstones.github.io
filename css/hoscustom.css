@@ -182,7 +182,7 @@ body {
     .wrapper {
         max-width: 150vw;
     }
-    .page-content {
+    .gist, .post-content, .page-content {
         max-width: 125vw;
     }
 }
@@ -238,12 +238,5 @@ body {
     }
     .post-title {
        max-width: 75%;
-    }
-    
-    .post-content {
-        max-width: 55%;
-    }
-    .gist {
-        max-width: 99%;
     }
 }
