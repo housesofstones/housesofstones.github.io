@@ -182,6 +182,9 @@ body {
     .wrapper {
         max-width: 150vw;
     }
+    .page-content {
+        max-width: 125vw;
+    }
 }
 @media screen and (max-width: 610px) {
     .site-nav { 
