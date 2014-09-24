@@ -7,6 +7,7 @@ description: '&quot;Science is facts; just as houses are made of stones, so is s
 # Build settings
 markdown: kramdown
 highlighter: pygments
+encoding: UTF-8
 
 authors:
   swheeler:
