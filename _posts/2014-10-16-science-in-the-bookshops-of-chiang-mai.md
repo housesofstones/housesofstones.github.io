@@ -37,6 +37,9 @@ tags:
     body {
         font: 10px sans-serif;
     }
+    div {
+        margin-top: 20px;
+    }
     .node {
         stroke-width: 1.5px;
     }
