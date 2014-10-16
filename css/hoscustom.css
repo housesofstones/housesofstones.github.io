@@ -227,6 +227,7 @@ body {
        font-size: 32px;
     }
     .post-title {
+	   font-size: 20px;
        max-width: 75%;
     }
 }
