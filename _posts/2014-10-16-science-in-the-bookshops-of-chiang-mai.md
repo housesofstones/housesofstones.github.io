@@ -96,7 +96,7 @@ tags:
 </div>
 <div id="chart"></div>
 <div class='text_scroll' id="table"></div>
-<div id="top_terms"></div>
+<div id="top_terms" style="margin-top:10px;"></div>
 <div class='text_scroll' id="termstable"></div>
 <div class="ui-widget">
     <label for="tags">Tags: </label>
