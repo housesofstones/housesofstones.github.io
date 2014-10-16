@@ -40,7 +40,7 @@ tags:
         pointer-events: none;
     }
     .text_scroll {
-        max-height:200px;
+        max-height:100px;
         overflow-y:scroll;
         width:700px;
     }
