@@ -66,7 +66,7 @@ tags:
     <div class="panel-heading">
       <h5 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          Collapsible Group Item #1
+          Photo of Bookshelf
         </a>
       </h5>
     </div>
@@ -151,6 +151,11 @@ tags:
                 .attr('dy', '.71em')
                 .style('text-anchor', 'end')
                 .text('Count');
+
+            svg.append('text')
+                .attr('x', 40)
+                .attr('y', 30)
+                .text('Select bar to view books from that year');
 
             svg.selectAll('bar')
                 .data(bar_data)
