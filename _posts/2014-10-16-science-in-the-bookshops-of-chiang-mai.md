@@ -33,7 +33,7 @@ tags:
     </div>
     <div id="collapseOne" class="panel-collapse collapse in">
       <div class="panel-body">
-        <img src="https://drive.google.com/file/d/0B4U5l0y6n26iR1RYNThNYzNjeXM/view?usp=sharing">
+        <img src="https://googledrive.com/host/0B4U5l0y6n26iNHFiakpqLVhjOUk/chiang_1bookshelf1.jpg">
       </div>
     </div>
   </div>
