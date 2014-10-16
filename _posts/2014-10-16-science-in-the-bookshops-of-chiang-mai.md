@@ -42,6 +42,7 @@ tags:
     .text_scroll {
         max-height:200px;
         overflow-y:scroll;
+        width:700px;
     }
     .axis path,
     .axis line {
