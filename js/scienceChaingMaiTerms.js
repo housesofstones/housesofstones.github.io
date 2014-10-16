@@ -67,29 +67,26 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
             d3.select(this).style('fill', '#E35604')
             })
         .on('click', function(d){
+            create_label(d.words);
             create_termsTable(d.words);
         });
+
+    function create_label(d){
+        termsSvg.append('text')
+            .attr('class', 'title')
+            .attr('x', width/2)
+            .attr('y', height + margin.bottom/2)
+            .style('font-size', '15px')
+            .text(d);
+
+        termsSvg.selectAll('.title')
+            .transition()
+            .text(d);
+    }
 
     function create_termsTable(d){
 
         d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv", function(error, main_data){
-
-        console.log(main_data.filter(function(e){
-                if (e.tokens.indexOf(d) > -1){
-                    return e.found_title;
-                }
-            }));
-
-        termsTable.append('text')
-            .attr('class', 'title')
-            .attr('x', width/2)
-            .attr('y', 0)
-            .style('font-size', '20px')
-            .text(d);
-
-        termsTable.selectAll('.title')
-            .transition()
-            .text(d);
 
         var termLabels = termsTable.selectAll('.titles')
             .data(main_data.filter(function(e){
