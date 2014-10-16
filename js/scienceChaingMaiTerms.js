@@ -72,6 +72,8 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
         });
 
     function create_label(d){
+        termsSvg.selectAll('.title').remove();
+
         termsSvg.append('text')
             .attr('class', 'title')
             .attr('x', width/2)
@@ -83,7 +85,6 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
             .transition()
             .text(d);
 
-        termsSvg.selectAll('.title').exit().remove();
     }
 
     function create_termsTable(d){
