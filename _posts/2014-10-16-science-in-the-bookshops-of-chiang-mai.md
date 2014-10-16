@@ -79,6 +79,8 @@ tags:
 </div>
 <div id="chart"></div>
 <div class='text_scroll' id="table"></div>
+<div id="top_terms"></div>
+<div class='text_scroll' id="termstable"></div>
 
 <script src="http://housesofstones.github.io/js/scienceChaingMaiYears.js">
 </script>
