@@ -94,7 +94,8 @@ tags:
     </div>
   </div>
 </div>
-<div id="chart" style="margin-bottom:10px;"></div>
+<div id="chart"></div>
+<br>
 <div class='text_scroll' id="table"></div>
 <div id="top_terms" style="margin-top:10px;"></div>
 <div class='text_scroll' id="termstable"></div>
