@@ -102,16 +102,16 @@ d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(erro
         });
 
     function create_label(d){
-        svgTable.selectAll('.title').remove();
+        svg.selectAll('.title').remove();
 
-        svgTable.append('text')
+        svg.append('text')
             .attr('class', 'title')
             .attr('x', width/2)
-            .attr('y', height)
+            .attr('y', height + margin.top*1.5)
             .style('font-size', '15px')
             .text(d.year);
 
-        svgTable.selectAll('.title')
+        svg.selectAll('.title')
             .transition()
             .text(d.year);
 
