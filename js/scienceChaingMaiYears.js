@@ -107,7 +107,7 @@ d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(erro
         svgTable.append('text')
             .attr('class', 'title')
             .attr('x', width/2)
-            .attr('y', height + margin.top)
+            .attr('y', height)
             .style('font-size', '15px')
             .text(d.year);
 
