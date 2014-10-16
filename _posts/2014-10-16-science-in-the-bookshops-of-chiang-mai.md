@@ -80,7 +80,7 @@ tags:
 <div class='text_scroll' id="table"></div>
 
 <script>
-        var margin = {top: 20, right: 20, bottom: 40, left: 10},
+        var margin = {top: 20, right: 20, bottom: 40, left: 20},
             width = 600 - margin.left - margin.right,
             height = 300 - margin.top - margin.bottom;
 
@@ -193,7 +193,7 @@ tags:
                     .enter().append('text')
                     .attr('class', 'titles')
                     .attr('x', 5)
-                    .attr('y', function(d,i){ return (i*15)+10 })
+                    .attr('y', function(d,i){ return (i*15)+15 })
                     .text(function(e){ return e.found_title })
                     .on('mouseover', function(d){
                         d3.select(this)
