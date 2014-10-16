@@ -103,7 +103,7 @@ tags:
             .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 
         var svgTable = d3.select('div#table').append('svg')
-            .attr('width', width + 20 + margin.left + margin.right)
+            .attr('width', width + 50 + margin.left + margin.right)
             .attr('height', height + margin.top + margin.bottom)
           .append('g')
             .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
