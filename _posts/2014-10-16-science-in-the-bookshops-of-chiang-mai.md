@@ -97,12 +97,12 @@ tags:
 <div class='text_scroll' id="table"></div>
 <div id="top_terms"></div>
 <div class='text_scroll' id="termstable"></div>
-<div id="graph"></div>
 <div class="ui-widget">
     <label for="tags">Tags: </label>
     <input id="tags">
         <button type= "submit" id= "SUBMIT" onclick="update($('#tags').val())" value="SUBMIT">  SUBMIT</button>
 </div>
+<div id="graph"></div>
 
 <script src="http://housesofstones.github.io/js/scienceChaingMaiYears.js">
 </script>
