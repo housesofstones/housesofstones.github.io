@@ -82,3 +82,5 @@ tags:
 
 <script src="http://housesofstones.github.io/js/scienceChaingMaiYears.js">
 </script>
+<script src="http://housesofstones.github.io/js/scienceChaingTerms.js">
+</script>
