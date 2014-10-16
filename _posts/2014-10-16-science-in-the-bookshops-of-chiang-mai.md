@@ -17,6 +17,22 @@ tags:
 <script src="https://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+    var book_terms = [];
+    $(document).ready(function(){
+        $.getJSON('http://housesofstones.github.io/data/chiangGraph.json', function(response){
+            for (i=0; i<Object.keys(response).length; i++){
+                book_terms.push(Object.keys(response)[i]);
+            }
+        });
+    });
+    $(function() {
+        var availableTags = book_terms;
+        $( "#tags" ).autocomplete({
+            source: availableTags
+        });
+    });
+</script>
 <style>
     body {
         font: 10px sans-serif;
@@ -81,8 +97,16 @@ tags:
 <div class='text_scroll' id="table"></div>
 <div id="top_terms"></div>
 <div class='text_scroll' id="termstable"></div>
+<div id="graph"></div>
+<div class="ui-widget">
+    <label for="tags">Tags: </label>
+    <input id="tags">
+        <button type= "submit" id= "SUBMIT" onclick="update($('#tags').val())" value="SUBMIT">  SUBMIT</button>
+</div>
 
 <script src="http://housesofstones.github.io/js/scienceChaingMaiYears.js">
 </script>
 <script src="http://housesofstones.github.io/js/scienceChaingMaiTerms.js">
+</script>
+<script src="http://housesofstones.github.io/js/scienceChaingMaiGraph.js">
 </script>
