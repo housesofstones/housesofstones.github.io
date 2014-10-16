@@ -77,7 +77,7 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
         termsSvg.append('text')
             .attr('class', 'title')
             .attr('x', width/2)
-            .attr('y', height + margin.bottom*2)
+            .attr('y', height + margin.bottom*1.5)
             .style('font-size', '15px')
             .text(d);
 
