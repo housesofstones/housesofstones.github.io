@@ -157,7 +157,7 @@ tags:
                 .attr('y', 30)
                 .style('fill', '#D80913')
                 .style('font-size', '15px')
-                .html('Select bar to view' + "<br/>" + 'books from that year');
+                .html('Select bar to view <br/> books from that year');
 
             svg.selectAll('bar')
                 .data(bar_data)
