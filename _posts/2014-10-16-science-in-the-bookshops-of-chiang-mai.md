@@ -109,7 +109,7 @@ tags:
             .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 
 
-        d3.csv("data/chiangMai_data.csv", function(error, data){
+        d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(error, data){
 
             years = {};
             for (i=0; i<data.length; i++){
