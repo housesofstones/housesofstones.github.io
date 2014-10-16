@@ -82,6 +82,8 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
         termsSvg.selectAll('.title')
             .transition()
             .text(d);
+
+        termsSvg.selectAll('.title').exit().remove();
     }
 
     function create_termsTable(d){
