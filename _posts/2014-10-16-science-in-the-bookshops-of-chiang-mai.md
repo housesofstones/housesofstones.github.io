@@ -155,6 +155,8 @@ tags:
             svg.append('text')
                 .attr('x', 40)
                 .attr('y', 30)
+                .style('fill', '#D80913')
+                .style('font-size', '15px')
                 .text('Select bar to view books from that year');
 
             svg.selectAll('bar')
