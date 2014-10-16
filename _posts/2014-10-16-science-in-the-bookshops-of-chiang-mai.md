@@ -152,12 +152,18 @@ tags:
                 .style('text-anchor', 'end')
                 .text('Count');
 
-            svg.append('foreignObject')
+            svg.append('text')
                 .attr('x', 40)
                 .attr('y', 30)
                 .style('fill', '#D80913')
                 .style('font-size', '15px')
-                .html('Select bar to view <br/> books from that year');
+                .text('Select bar to view');
+            svg.append('text')
+                .attr('x', 40)
+                .attr('y', 40)
+                .style('fill', '#D80913')
+                .style('font-size', '15px')
+                .text('books from that year');
 
             svg.selectAll('bar')
                 .data(bar_data)
