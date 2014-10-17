@@ -103,11 +103,11 @@ d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(erro
 
     svg.append('text')
             .attr('class', 'chart_title')
-            .attr('x', width/2)
+            .attr('x', width/3)
             .attr('y', 0)
             .style('font-size', '15px')
             .style('fill', '#213CB1')
-            .text("The fifty most frequent words in the titles");
+            .text("Year the book was published");
 
     function create_label(d){
         svg.selectAll('.title').remove();

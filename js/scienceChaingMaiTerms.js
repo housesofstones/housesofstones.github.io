@@ -71,6 +71,14 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
             create_termsTable(d.words);
         });
 
+    termsSvg.append('text')
+        .attr('class', 'chart_title')
+        .attr('x', width/3)
+        .attr('y', 0)
+        .style('font-size', '15px')
+        .style('fill', '#213CB1')
+        .text("The fifty most frequent words in the titles");
+
     function create_label(d){
         termsSvg.selectAll('.title').remove();
 
