@@ -65,7 +65,8 @@ tags:
         shape-rendering: crispEdges;
     }
     .x.axis,
-    .y.axis {
+    .y.axis,
+    .tick {
         font: 10px;
     }
 
