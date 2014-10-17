@@ -50,7 +50,7 @@ tags:
 
     .node text {
         color: #000;
-        font: 10px sans-serif;
+        font: 10px;
         pointer-events: none;
     }
     .text_scroll {
@@ -65,7 +65,7 @@ tags:
         shape-rendering: crispEdges;
     }
     .axis {
-        font: 10px sans-serif;
+        font: 10px;
     }
 
     rect {
