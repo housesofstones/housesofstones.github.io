@@ -11,7 +11,7 @@ tags:
   - travel
   - visualization
 ---
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">-->
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
@@ -82,6 +82,7 @@ tags:
 <div>
     Recording each book on the shelf in a notebook would have been the most reliable way of ensuring my sample was accurate and complete, but it wouldn't have scaled well. So I snapped a few pictures of the science bookshelf with my smart phone. Since this was all on the prompting of an idea that had come to me about two minutes before and since taking a picture of a bookshelf seemed entirely unobjectionable, I have to admit I failed to get the informed consent of the bookstore owner. Of course this wouldn't have been ok with an <a href="http://en.wikipedia.org/wiki/Institutional_review_board">IRB</a> and it turned out that it wasn't ok with the owner either. However, the owner let me take the pictures after I agreed to buy a book (though I'm not sure an IRB would have looked on that as an acceptable way of gaining consent either). During the rest of my trip I managed to visit three different bookshops and photograph their science shelves. 
 </div>
+<!--
 <div class="panel-group" id="accordion">
   <div class="panel panel-default">
     <div class="panel-heading">
@@ -98,6 +99,7 @@ tags:
     </div>
   </div>
 </div>
+-->
 <script src="https://gist.github.com/PMeinshausen/c088ab28f515176685cb.js"></script>
 <div id="chart"></div>
 <div class='text_scroll' id="table"></div>
