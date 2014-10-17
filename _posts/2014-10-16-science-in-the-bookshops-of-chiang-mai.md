@@ -66,7 +66,7 @@ tags:
     }
     .x.axis,
     .y.axis,
-    .tick {
+    .tick text {
         font: 10px;
     }
 
