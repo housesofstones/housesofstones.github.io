@@ -34,9 +34,6 @@ tags:
     });
 </script>
 <style>
-    body {
-        font: 10px sans-serif;
-    }
     
     .node {
         stroke-width: 1.5px;
@@ -66,6 +63,9 @@ tags:
         fill: none;
         stroke: #213CB1;
         shape-rendering: crispEdges;
+    }
+    .axis {
+        font: 10px sans-serif;
     }
 
     rect {
