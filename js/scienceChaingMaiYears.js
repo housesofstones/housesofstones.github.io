@@ -101,6 +101,13 @@ d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(erro
             create_table(d);
         });
 
+    termsSvg.append('text')
+            .attr('class', 'chart_title')
+            .attr('x', width/2)
+            .attr('y', 0)
+            .style('font-size', '15px')
+            .text("The fifty most frequent words in the titles");
+
     function create_label(d){
         svg.selectAll('.title').remove();
 
