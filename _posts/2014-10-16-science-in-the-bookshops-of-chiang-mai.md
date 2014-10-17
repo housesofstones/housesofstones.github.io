@@ -64,7 +64,8 @@ tags:
         stroke: #213CB1;
         shape-rendering: crispEdges;
     }
-    .axis {
+    .x.axis,
+    .y.axis {
         font: 10px;
     }
 
