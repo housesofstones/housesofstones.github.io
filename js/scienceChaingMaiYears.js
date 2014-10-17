@@ -1,4 +1,4 @@
-var margin = {top: 20, right: 20, bottom: 40, left: 20},
+var margin = {top: 20, right: 20, bottom: 40, left: 30},
             width = 600 - margin.left - margin.right,
             height = 300 - margin.top - margin.bottom;
 
@@ -73,13 +73,13 @@ d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(erro
         .attr('x', 40)
         .attr('y', 30)
         .style('fill', '#D80913')
-        .style('font-size', '15px')
+        .style('font-size', '10px')
         .text('Select bar to view');
     svg.append('text')
         .attr('x', 40)
         .attr('y', 45)
         .style('fill', '#D80913')
-        .style('font-size', '15px')
+        .style('font-size', '10px')
         .text('books from that year');
 
     svg.selectAll('bar')
