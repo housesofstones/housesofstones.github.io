@@ -64,10 +64,13 @@ tags:
         stroke: #213CB1;
         shape-rendering: crispEdges;
     }
+    g.tick {
+        font-size:10px;
+    }
     .x.axis,
     .y.axis,
     .tick text {
-        font: 10px;
+        font-size: 10px;
     }
 
     rect {
