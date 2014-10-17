@@ -78,7 +78,7 @@ tags:
     }
 </style>
 
-<article class="post-content">
+<div>
     <p>
     I spent the weekend before last in <a href="http://en.wikipedia.org/wiki/Chiang_Mai">Chiang Mai</a> and while I was there I wandered into a small used bookshop that catered to backpackers and wanderers. Browsing through the shelves and spotting familiar authors and titles that I haven't had time for in the past several years proved about as soothing and relaxing as a Thai massage. It also reminded me of ethnography, another main interest of mine that I don't give as much attention as I wish I might. So on a whim I decided to engage in a small ethnographic exercise and combine travel, books, ethnography, and data collection.
     </p>
@@ -88,6 +88,7 @@ tags:
 <p>
     Recording each book on the shelf in a notebook would have been the most reliable way of ensuring my sample was accurate and complete, but it wouldn't have scaled well. So I snapped a few pictures of the science bookshelf with my smart phone. Since this was all on the prompting of an idea that had come to me about two minutes before and since taking a picture of a bookshelf seemed entirely unobjectionable, I have to admit I failed to get the informed consent of the bookstore owner. Of course this wouldn't have been ok with an <a href="http://en.wikipedia.org/wiki/Institutional_review_board">IRB</a> and it turned out that it wasn't ok with the owner either. However, the owner let me take the pictures after I agreed to buy a book (though I'm not sure an IRB would have looked on that as an acceptable way of gaining consent either). During the rest of my trip I managed to visit three different bookshops and photograph their science shelves. 
 </p>
+</div>
 <!--
 <div class="panel-group" id="accordion">
   <div class="panel panel-default">
@@ -124,4 +125,3 @@ tags:
 </script>
 <script src="http://housesofstones.github.io/js/scienceChaingMaiGraph.js">
 </script>
-</div>
