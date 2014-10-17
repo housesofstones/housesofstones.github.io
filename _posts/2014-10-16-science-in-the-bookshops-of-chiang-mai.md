@@ -73,10 +73,14 @@ tags:
     }
 </style>
 
-
 <div>
-    Text
-
+    I spent the weekend before last in <a href="http://en.wikipedia.org/wiki/Chiang_Mai">Chiang Mai</a> and while I was there I wandered into a small used bookshop that catered to backpackers and wanderers. Browsing through the shelves and spotting familiar authors and titles that I haven't had time for in the past several years proved about as soothing and relaxing as a Thai massage. It also reminded me of ethnography, another main interest of mine that I don't give as much attention as I wish I might. So on a whim I decided to engage in a small ethnographic exercise and combine travel, books, ethnography, and data collection.
+</div>
+<div>
+    Taking a look at the shelves marked 'science', I decided to systematically describe the science books that show up in the used bookshops of Chiang Mai. To do that I needed to collect data. The data science that interests me the most starts with the collection of <a href="http://en.wikipedia.org/wiki/In_situ#Experimental_psychology">in situ<a/> data, not with a ready-made and cleaned dataset divorced from its context. If the data's original context is not already digitized (online or mobile), then that's even more interesting. I want to know more about the parts of peoples' lives that aren't spent on their phone or computer. That's what ethnography is really good at describing, and data collection is a critical part of ethnography. In the early days of anthropology a big part of ethnographic training had to do with the use of notebooks, tape recorders and other means for systematically recording observations of daily life and other social phenomena. 
+</div>
+<div>
+    Recording each book on the shelf in a notebook would have been the most reliable way of ensuring my sample was accurate and complete, but it wouldn't have scaled well. So I snapped a few pictures of the science bookshelf with my smart phone. Since this was all on the prompting of an idea that had come to me about two minutes before and since taking a picture of a bookshelf seemed entirely unobjectionable, I have to admit I failed to get the informed consent of the bookstore owner. Of course this wouldn't have been ok with an <a href="http://en.wikipedia.org/wiki/Institutional_review_board">IRB</a> and it turned out that it wasn't ok with the owner either. However, the owner let me take the pictures after I agreed to buy a book (though I'm not sure an IRB would have looked on that as an acceptable way of gaining consent either). During the rest of my trip I managed to visit three different bookshops and photograph their science shelves. 
 </div>
 <div class="panel-group" id="accordion">
   <div class="panel panel-default">
@@ -93,15 +97,6 @@ tags:
       </div>
     </div>
   </div>
-</div>
-<div>
-    I spent the weekend before last in <a href="http://en.wikipedia.org/wiki/Chiang_Mai">Chiang Mai</a> and while I was there I wandered into a small used bookshop that catered to backpackers and wanderers. Browsing through the shelves and spotting familiar authors and titles that I haven't had time for in the past several years proved about as soothing and relaxing as a Thai massage. It also reminded me of ethnography, another main interest of mine that I don't give as much attention as I wish I might. So on a whim I decided to engage in a small ethnographic exercise and combine travel, books, ethnography, and data collection.
-</div>
-<div>
-    Taking a look at the shelves marked 'science', I decided to systematically describe the science books that show up in the used bookshops of Chiang Mai. To do that I needed to collect data. The data science that interests me the most starts with the collection of <a href="http://en.wikipedia.org/wiki/In_situ#Experimental_psychology">in situ<a/> data, not with a ready-made and cleaned dataset divorced from its context. If the data's original context is not already digitized (online or mobile), then that's even more interesting. I want to know more about the parts of peoples' lives that aren't spent on their phone or computer. That's what ethnography is really good at describing, and data collection is a critical part of ethnography. In the early days of anthropology a big part of ethnographic training had to do with the use of notebooks, tape recorders and other means for systematically recording observations of daily life and other social phenomena. 
-</div>
-<div>
-    Recording each book on the shelf in a notebook would have been the most reliable way of ensuring my sample was accurate and complete, but it wouldn't have scaled well. So I snapped a few pictures of the science bookshelf with my smart phone. Since this was all on the prompting of an idea that had come to me about two minutes before and since taking a picture of a bookshelf seemed entirely unobjectionable, I have to admit I failed to get the informed consent of the bookstore owner. Of course this wouldn't have been ok with an <a href="http://en.wikipedia.org/wiki/Institutional_review_board">IRB</a> and it turned out that it wasn't ok with the owner either. However, the owner let me take the pictures after I agreed to buy a book (though I'm not sure an IRB would have looked on that as an acceptable way of gaining consent either). During the rest of my trip I managed to visit three different bookshops and photograph their science shelves. 
 </div>
 <script src="https://gist.github.com/PMeinshausen/c088ab28f515176685cb.js"></script>
 <div id="chart"></div>
