@@ -61,7 +61,7 @@ tags:
         border:1px solid #124d77;
         display:inline-block;
         cursor:pointer;
-        color:#ffffff;
+        color:#E35604;
         font-family:arial;
         font-size:13px;
         padding:6px 24px;
