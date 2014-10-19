@@ -1,5 +1,5 @@
-var graph_width = 600,
-    graph_height = 400;
+var graph_width = 800,
+    graph_height = 600;
 
 var force = d3.layout.force()
     .charge(-120)
