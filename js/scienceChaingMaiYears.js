@@ -136,7 +136,7 @@ d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(erro
             .enter().append('text')
             .attr('class', 'titles')
             .attr('x', 5)
-            .attr('y', function(d,i){ return (i*15)+15 })
+            .attr('y', function(d,i){ return (i*15) })
             .text(function(e){ return e.found_title })
             .on('mouseover', function(d){
                 d3.select(this)
