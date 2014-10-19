@@ -114,9 +114,9 @@ tags:
     <p>
     Architecturally and culturally Chiang Mai seems most known for its temples. The one in the picture below is my favorite. 
     </p>
-    
+    <div>
     <img src="https://googledrive.com/host/0B4U5l0y6n26iNHFiakpqLVhjOUk/chiang_temple.jpg" class="rotate90">
-    
+    </div>
 </div>
 <!--
 <div class="panel-group" id="accordion">
