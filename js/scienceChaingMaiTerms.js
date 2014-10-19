@@ -26,8 +26,6 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
     data.forEach(function(d){
         d.count = +d.count;
     });
-    console.log(d3.max(data, function(d){ return d.count; }));
-    console.log(data);
     
     xTerms.domain(data.map(function(d){ return d.words; }));
     yTerms.domain([0, d3.max(data, function(d){ return d.count; })]);
@@ -124,7 +122,8 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
                 .style('fill', 'black')
                 .style('text-decoration', 'none')
                 .style('cursor', 'default')
-            });
+            })
+            .on('click', function(e){ return OpenInNewTab(e.link) });
 
         termLabels
             .data(main_data.filter(function(e){
@@ -140,5 +139,10 @@ d3.csv("http://housesofstones.github.io/data/chiangTop_words.csv", function(erro
 
     })
 
-}
+    }
+
+    function OpenInNewTab(url){
+        var win = window.open(url, '_blank');
+        win.focus();
+    }
 });
