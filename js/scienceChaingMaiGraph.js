@@ -93,3 +93,5 @@ d3.json('http://housesofstones.github.io/data/chiangGraph.json', function(error,
 });
 
 };
+
+update('science');
