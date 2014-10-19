@@ -1,4 +1,4 @@
-var graph_width = 800,
+var graph_width = 700,
     graph_height = 600;
 
 var force = d3.layout.force()

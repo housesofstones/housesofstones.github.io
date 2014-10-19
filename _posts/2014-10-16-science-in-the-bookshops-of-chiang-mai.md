@@ -192,6 +192,12 @@ tags:
             <button type="submit" id="SUBMIT" onclick="update($('#tags').val())" value="SUBMIT" class="myButton">SUBMIT</button>
     </div>
     <div id="graph"></div>
+    <p>
+    Since we're on the topic of science and tourism, I'm including an ahead-of-its-time and forward-looking commercial fthat the Thailand Tourism Authority produced way back around 2001. Apparently they had realized already that data science-enabled robots would one day take all our jobs, and once they did the robots would be the ones with enjoying places like Chiang Mai as tourists.
+    </p>
+    <p>
+    <iframe width="420" height="315" src="//www.youtube.com/embed/iEXkQVa-Lzw" frameborder="0" allowfullscreen></iframe>
+    </p>
 </div>
 <!--
 <div class="panel-group" id="accordion">
