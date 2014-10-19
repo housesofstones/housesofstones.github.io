@@ -76,6 +76,10 @@ tags:
     rect {
         fill: #E35604;
     }
+
+    pre, code {
+        font-size: 12px;
+    }
 </style>
 
 <div>
