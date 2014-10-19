@@ -187,9 +187,9 @@ tags:
     <div id="top_terms" style="margin-top:10px;"></div>
     <div class='text_scroll' id="termstable"></div>
     <div class="ui-widget">
-        <label for="tags">Tags: </label>
+        <label for="tags">Words: </label>
         <input id="tags">
-            <button type= "submit" id= "SUBMIT" onclick="update($('#tags').val())" value="SUBMIT">  SUBMIT</button>
+            <button type="submit" id="SUBMIT" onclick="update($('#tags').val())" value="SUBMIT" class="myButton">SUBMIT</button>
     </div>
     <div id="graph"></div>
 </div>
