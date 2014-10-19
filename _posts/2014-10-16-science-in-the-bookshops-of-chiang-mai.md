@@ -118,7 +118,7 @@ tags:
     <p>
     As nice as manual work can be occasionally, automation is usually preferable and it's what makes description at scale possible. Using selenium I populated an amazon search for each title and made a first pass at identifying the correct book. It wasn't perfect, but it worked satisfactorily for most of the books and saved a lot of time in comparison to looking each book up individually. I quickly worked through the titles that weren't found (about 30) and managed to find them all manually. Once I had the real titles and links, I wrote a crawler to capture some additional information, mainly the year of publication and the author (I captured some other information, but then decided not to use it at the moment). 
     </p>
-    <div id="selenium">
+    <div id="selenium" style="display:none">
     <script src="https://gist.github.com/PMeinshausen/c088ab28f515176685cb.js"></script>
     </div>
 </div>
