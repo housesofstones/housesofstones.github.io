@@ -99,10 +99,16 @@ tags:
     Data collection has the additional upside of forcing you to think about the limitations of your dataset. I know I wasn't able to visit every used bookstore in Chiang Mai; I saw at least four others that I couldn't visit. <a href="http://www.1stopchiangmai.com/shopping/books">This site</a> lists about 14 bookstores, and there are almost certainly more. So clearly the dataset that I developed is only a small sample of the total population, and there's no reason to think it is a representative one.
     </p>
     <p>
-    This kind of ethnography wouldn't work in Bangkok, I would have felt too overwhelmed. But Chiang Mai is the perfect size and layout; the kind of place I read ethnographies about as an undergraduate student. The old city and the areas immediately surrounding it are a pleasantly sleepy and relaxed contrast to Bangkok. About ten-square blocks, the old city is still partially walled and surrounded by a moat. Besides locals, the most noticeable population is backpackers and trekker-type tourists. It's an amazingly beautiful place, but I'll balance my glowing description with <a href="http://www.siamese-heritage.org/jsspdf/1991/JSS_087_0h_Renard_ImageOfChiangMai.pdf">a description written by Thailand railway policymakers in the mid-20th century</a>, which somehow manages to comprehensively recommend the place while making you just a little less interested in seeing it: 
+    This kind of project wouldn't work in Bangkok, I would have felt too overwhelmed. But Chiang Mai is the perfect size and layout; the kind of place just asking for an ethnography. The old city and the areas immediately surrounding it are a pleasantly sleepy and relaxed contrast to Bangkok. About ten-square blocks, the old city is still partially walled and surrounded by a moat. Besides locals, the most noticeable population is backpackers and trekker-type tourists. It's an amazingly beautiful place, but I'll balance my glowing description with <a href="http://www.siamese-heritage.org/jsspdf/1991/JSS_087_0h_Renard_ImageOfChiangMai.pdf">a description written by Thailand railway policymakers in the mid-20th century</a>, which somehow manages to comprehensively recommend the place while making you just a little less interested in seeing it: 
     </p>
-    <p style="width:75%; font-style:italic;">
+    <p style="font-style:italic;">
     "the scenery was beautiful, many important sites existed, there were a variety of delightful ancient traditions, the population was polite and mild-mannered, all of which made the place appropriate for tourists to visit."
+    </p>
+    <p>
+    Architecturally and culturally Chiang Mai seems most known for its temples. The one in the picture below is my favorite. 
+    </p>
+    <p>
+    <img src="https://googledrive.com/host/0B4U5l0y6n26iNHFiakpqLVhjOUk/chiang_temple.jpg"
     </p>
 </div>
 <!--
