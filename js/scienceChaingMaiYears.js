@@ -16,7 +16,7 @@ var yAxis = d3.svg.axis()
 
 var svg = d3.select('div#chart').append('svg')
     .attr('width', width + margin.left + margin.right)
-    .attr('height', height + margin.top + margin.bottom*2)
+    .attr('height', height + margin.top + margin.bottom*1.5)
   .append('g')
     .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 
@@ -115,7 +115,7 @@ d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(erro
         svg.append('text')
             .attr('class', 'title')
             .attr('x', width/2)
-            .attr('y', height + margin.bottom*1.5)
+            .attr('y', height + margin.bottom*1.4)
             .style('font-size', '15px')
             .text(d.year);
 
