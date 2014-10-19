@@ -175,13 +175,14 @@ tags:
     <div id="selenium" style="display:none">
     <script src="https://gist.github.com/PMeinshausen/c088ab28f515176685cb.js"></script>
     </div>
+    <br>
     <p>
     The graphs below show when the books were published, the top fifty words in the set of book titles, and a text co-occurrence matrix in the form of a small graph. Search/select a word and the graph will display all the other words that co-occurred in the book titles.
     </p>
     <div id="chart"></div>
     <div class='text_scroll' id="table"></div>
     <p>
-    I like that 'search' and 'life' are the top two terms after 'science' (of course). It seems fitting. 
+    I like that 'search' and 'life' are the top two terms after 'science'. It seems fitting. 
     </p>
     <div id="top_terms" style="margin-top:10px;"></div>
     <div class='text_scroll' id="termstable"></div>
