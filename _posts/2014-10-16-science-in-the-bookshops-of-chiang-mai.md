@@ -165,13 +165,29 @@ tags:
     At home I recorded the titles in the photos in a spreadsheet. There was no way around doing this part manually. Coming to grips with that actually felt good. Automation and algorithms so much dominate my normal work (write code so that the computer does as much of the work as possible, and write it so that you can use it again later), that it's nice to let go and just do something manually. Here again the process of data collection and creation reminds you how messy and incomplete data usually is. Some of the titles were too small or too blurry for me to identify. Out of a total of 416 books that I could identify in the photos, I was able to identify the titles for 342. 
     </p>
     <p>
-    As nice as manual work can be occasionally, automation is usually preferable and it's what makes description at scale possible. Using selenium I populated an amazon search for each title and made a first pass at identifying the correct book. It wasn't perfect, but it worked satisfactorily for most of the books and saved a lot of time in comparison to looking each book up individually. I quickly worked through the titles that weren't found (about 30) and managed to find them all manually. Once I had the real titles and links, I wrote a crawler to capture some additional information, mainly the year of publication and the author (I captured some other information, but then decided not to use it at the moment). 
+    As nice as manual work can be occasionally, automation is usually preferable and it's what makes description at scale possible. Using selenium I populated an amazon search for each title and made a first pass at identifying the correct book. It wasn't perfect, but it worked satisfactorily for most of the books and saved a lot of time in comparison to looking each book up individually. I quickly worked through the titles that weren't found (about 30) and managed to find them all manually. Once I had the real titles and links, I wrote a crawler to capture some additional information, mainly the year of publication and the author (I captured some other information, but then decided not to use it). 
     </p>
     <!--<a href="#" class="myButton" onClick="showCode('selenium')">Display crawler</a>-->
-    <button class="myButton" onClick="showCode('selenium')">Display crawler</button>
+    <button class="myButton" onClick="showCode('selenium')">See crawler</button>
     <div id="selenium" style="display:none">
     <script src="https://gist.github.com/PMeinshausen/c088ab28f515176685cb.js"></script>
     </div>
+    <p>
+    The graphs below show when the books were published, the top fifty words in the set of book titles, and a text co-occurrence matrix in the form of a small graph. Search/select a word and the graph will display all the other words that co-occurred in the book titles.
+    </p>
+    <div id="chart"></div>
+    <div class='text_scroll' id="table"></div>
+    <p>
+    I like that 'search' and 'life' are the top two terms after 'science' (of course). It seems fitting. 
+    </p>
+    <div id="top_terms" style="margin-top:10px;"></div>
+    <div class='text_scroll' id="termstable"></div>
+    <div class="ui-widget">
+        <label for="tags">Tags: </label>
+        <input id="tags">
+            <button type= "submit" id= "SUBMIT" onclick="update($('#tags').val())" value="SUBMIT">  SUBMIT</button>
+    </div>
+    <div id="graph"></div>
 </div>
 <!--
 <div class="panel-group" id="accordion">
@@ -192,16 +208,7 @@ tags:
 </div>
 -->
 
-<div id="chart"></div>
-<div class='text_scroll' id="table"></div>
-<div id="top_terms" style="margin-top:10px;"></div>
-<div class='text_scroll' id="termstable"></div>
-<div class="ui-widget">
-    <label for="tags">Tags: </label>
-    <input id="tags">
-        <button type= "submit" id= "SUBMIT" onclick="update($('#tags').val())" value="SUBMIT">  SUBMIT</button>
-</div>
-<div id="graph"></div>
+
 
 <script src="http://housesofstones.github.io/js/scienceChaingMaiYears.js">
 </script>
