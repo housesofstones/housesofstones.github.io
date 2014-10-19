@@ -80,6 +80,13 @@ tags:
     pre, code {
         font-size: 12px;
     }
+    .rotate90 {
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        transform: rotate(90deg);
+    }
 </style>
 
 <div>
@@ -108,7 +115,7 @@ tags:
     Architecturally and culturally Chiang Mai seems most known for its temples. The one in the picture below is my favorite. 
     </p>
     <p>
-    <img src="https://googledrive.com/host/0B4U5l0y6n26iNHFiakpqLVhjOUk/chiang_temple.jpg">
+    <img src="https://googledrive.com/host/0B4U5l0y6n26iNHFiakpqLVhjOUk/chiang_temple.jpg" class="rotate90">
     </p>
 </div>
 <!--
