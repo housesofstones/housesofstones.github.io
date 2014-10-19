@@ -121,6 +121,9 @@ tags:
     .tick text {
         font-size: 10px;
     }
+    text.titles {
+        font-size: 10px;
+    }
 
     rect {
         fill: #E35604;
