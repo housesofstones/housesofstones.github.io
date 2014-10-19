@@ -18,7 +18,7 @@ var termsSvg = d3.select('div#top_terms').append('svg')
 
 var termsTable = d3.select('div#termstable').append('svg')
     .attr('width', width + margin.left + margin.right)
-    .attr('height', height + margin.top + margin.bottom)
+    .attr('height', height + margin.top + margin.bottom*1.5)
   .append('g')
     .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 
