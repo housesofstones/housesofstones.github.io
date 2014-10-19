@@ -1,8 +1,8 @@
 ---
 title: Science in the Bookshops of Chiang Mai
-author: PMeinshausen
+author: pmeinshausen
 layout: post
-permalink: 
+permalink: /2014/10/16/science-in-the-bookshops-of-chiang-mai/
 jabber_published:
 categories:
   - Personal
@@ -176,7 +176,7 @@ tags:
     <script src="https://gist.github.com/PMeinshausen/c088ab28f515176685cb.js"></script>
     </div>
     <br>
-    <p>
+    <p style="margin-top:5px;">
     The graphs below show when the books were published, the top fifty words in the set of book titles, and a text co-occurrence matrix in the form of a small graph. Search/select a word and the graph will display all the other words that co-occurred in the book titles.
     </p>
     <div id="chart"></div>
