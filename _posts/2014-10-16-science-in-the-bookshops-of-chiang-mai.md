@@ -158,7 +158,7 @@ tags:
     Data collection has the additional upside of forcing you to think about the limitations of your dataset. I know I wasn't able to visit every used bookstore in Chiang Mai; I saw at least four others that I couldn't visit. <a href="http://www.1stopchiangmai.com/shopping/books">This site</a> lists about 14 bookstores, and there are almost certainly more. So clearly the dataset that I developed is only a small sample of the total population, and there's no reason to think it is a representative one.
     </p>
     <p>
-    This kind of project wouldn't work in Bangkok, I would have felt too overwhelmed. But Chiang Mai is the perfect size and layout; the kind of place just asking for an ethnography. The old city and the areas immediately surrounding it are a pleasantly sleepy and relaxed contrast to Bangkok. About ten-square blocks, the old city is still partially walled and surrounded by a moat. Besides locals, the most noticeable population is backpackers and trekker-type tourists. It's an amazingly beautiful place, but I'll balance my glowing description with <a href="http://www.siamese-heritage.org/jsspdf/1991/JSS_087_0h_Renard_ImageOfChiangMai.pdf">a description written by Thailand railway policymakers in the mid-20th century</a>, which somehow manages to comprehensively recommend the place while making you just a little less interested in seeing it: 
+    Chiang Mai is the perfect size and layout for tackling something like this; the kind of place just asking for an ethnography. The old city and the areas immediately surrounding it are a pleasantly sleepy and relaxed contrast to Bangkok. About ten-square blocks, the old city is still partially walled and surrounded by a moat. Besides locals the most noticeable population is backpackers and trekker-type tourists. It's an amazingly beautiful place, but I'll balance my fervor with <a href="http://www.siamese-heritage.org/jsspdf/1991/JSS_087_0h_Renard_ImageOfChiangMai.pdf">a description written by Thailand railway policymakers in the mid-20th century</a>, which somehow manages to comprehensively recommend the place while making you just a little less convinced you need to see it: 
     </p>
     <p style="font-style:italic;">
     "the scenery was beautiful, many important sites existed, there were a variety of delightful ancient traditions, the population was polite and mild-mannered, all of which made the place appropriate for tourists to visit."
@@ -193,7 +193,7 @@ tags:
     </div>
     <div id="graph"></div>
     <p>
-    Since we're on the topic of science and tourism, I'm including an ahead-of-its-time and forward-looking commercial fthat the Thailand Tourism Authority produced way back around 2001. Apparently they had realized already that data science-enabled robots would one day take all our jobs, and once they did the robots would be the ones with enjoying places like Chiang Mai as tourists.
+    Since we're on the topic of science and tourism, I'm including an ahead-of-its-time and forward-looking commercial that the Thailand Tourism Authority produced way back around 2001. Apparently they had realized already that data science-enabled robots would one day take all our jobs, and once they did the robots would be the ones with enjoying places like Chiang Mai as tourists.
     </p>
     <p>
     <iframe width="420" height="315" src="//www.youtube.com/embed/iEXkQVa-Lzw" frameborder="0" allowfullscreen></iframe>
