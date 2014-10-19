@@ -2,7 +2,7 @@
 title: Science in the Bookshops of Chiang Mai
 author: pmeinshausen
 layout: post
-permalink: /2014/10/16/science-in-the-bookshops-of-chiang-mai/
+permalink: 
 jabber_published:
 categories:
   - Personal
