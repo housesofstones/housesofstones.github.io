@@ -111,14 +111,16 @@ tags:
     <p style="font-style:italic;">
     "the scenery was beautiful, many important sites existed, there were a variety of delightful ancient traditions, the population was polite and mild-mannered, all of which made the place appropriate for tourists to visit."
     </p>
-    <h5>Data and Methods</h5>
+    <h3>Data and Methods</h3>
     <p>
     At home I recorded the titles in the photos in a spreadsheet. There was no way around doing this part manually. Coming to grips with that actually felt good. Automation and algorithms so much dominate my normal work (write code so that the computer does as much of the work as possible, and write it so that you can use it again later), that it's nice to let go and just do something manually. Here again the process of data collection and creation reminds you how messy and incomplete data usually is. Some of the titles were too small or too blurry for me to identify. Out of a total of 416 books that I could identify in the photos, I was able to identify the titles for 342. 
     </p>
     <p>
     As nice as manual work can be occasionally, automation is usually preferable and it's what makes description at scale possible. Using selenium I populated an amazon search for each title and made a first pass at identifying the correct book. It wasn't perfect, but it worked satisfactorily for most of the books and saved a lot of time in comparison to looking each book up individually. I quickly worked through the titles that weren't found (about 30) and managed to find them all manually. Once I had the real titles and links, I wrote a crawler to capture some additional information, mainly the year of publication and the author (I captured some other information, but then decided not to use it at the moment). 
     </p>
+    <div id="selenium">
     <script src="https://gist.github.com/PMeinshausen/c088ab28f515176685cb.js"></script>
+    </div>
 </div>
 <!--
 <div class="panel-group" id="accordion">
