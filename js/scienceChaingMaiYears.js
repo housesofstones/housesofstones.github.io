@@ -74,7 +74,7 @@ d3.csv("http://housesofstones.github.io/data/chiangMai_data.csv ", function(erro
         .attr('y', 30)
         .style('fill', '#D80913')
         .style('font-size', '10px')
-        .text('Select bar to view');
+        .text('Select a bar to view');
     svg.append('text')
         .attr('x', 40)
         .attr('y', 45)
