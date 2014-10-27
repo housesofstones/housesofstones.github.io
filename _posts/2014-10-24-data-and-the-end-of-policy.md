@@ -3,6 +3,7 @@ title: Data and the end of policy
 author: swheeler
 layout: post
 permalink: /2014/10/24/data-and-the-end-of-policy/
+description: Last night I had the pleasure of attending a reception in honor of Heiner Bielefeldt, Special Rapporteur on Freedom of Religion or Belief for the United Nations. Bielefeldt recently released a report about relgious freedom in the workplace and the reception was a chance for him to talk about that report in a less formal setting as well as to hear commentary from a variety of interested parties.
 ---
 
 Last night I had the pleasure of attending a reception in honor of [Heiner Bielefeldt](http://www.ohchr.org/en/issues/freedomreligion/pages/freedomreligionindex.aspx), Special Rapporteur on Freedom of Religion or Belief for the United Nations. Bielefeldt recently released a [report](http://www.ohchr.org/Documents/Issues/Religion/A.69.261.pdf) about relgious freedom in the workplace and the reception was a chance for him to talk about that report in a less formal setting as well as to hear commentary from a variety of interested parties.
