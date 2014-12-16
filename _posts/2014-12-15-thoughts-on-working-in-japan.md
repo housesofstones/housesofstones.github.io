@@ -11,18 +11,17 @@ For a foreigner, getting stuff done in Japan depends on understanding how the pe
 
 Last month I read [The Intel Trinity](http://www.amazon.com/The-Intel-Trinity-Important-Company/dp/0062226762) and during this last trip a passage from it on the semiconductor industry in Japan in the 1970s kept coming to mind. The passage quotes heavily from a former vice president of AMD:
 
-> "Back in the 1960s, we used to laugh at the Japanese... Usually several hundred technical papers were delivered [at US semiconductor > industry technical conferences of the era]. Of these, the Japanese electronics companies might contribute only one or two, and even 
-> these were invariably of minimal importance. Not only was the technical content of these papers of little significance, but the 
-> limited English of the presenters made them all but unintelligible. It wasn't until years later, when our smugness gave way to fear 
-> and awe, that we realized that the Japanese hadn't come to talk, they came to listen, and to photograph. Every time a slide would go > up all of the Japanese cameras in the room would go off all at once. We supercilious Americans even had a joke about it: "You know 
-> what that sound is every time a new slide goes up? It's the Japanese cameras going crick, crick." That was more than a decade ago. We > don't laugh anymore."
+> "Back in the 1960s, we used to laugh at the Japanese... Usually several hundred technical papers were delivered [at US semiconductor  industry technical conferences of the era]. Of these, the Japanese electronics companies might contribute only one or two, and even 
+these were invariably of minimal importance. Not only was the technical content of these papers of little significance, but the 
+limited English of the presenters made them all but unintelligible. It wasn't until years later, when our smugness gave way to fear 
+and awe, that we realized that the Japanese hadn't come to talk, they came to listen, and to photograph. Every time a slide would go up all of the Japanese cameras in the room would go off all at once. We supercilious Americans even had a joke about it: "You know 
+what that sound is every time a new slide goes up? It's the Japanese cameras going crick, crick." That was more than a decade ago. We don't laugh anymore."
 
 There's nothing like extremely formal deference and having to speak very slowly and clearly for generating a completely undeserved boost to your ego. As in the above instance, the ego eventually gets its comeuppance. 
 
 I also like this passage:
 
-> "Their only competitive advantage against the Japanese was in chip innovation, but the Japanese chip companies had perfected their 
-> system of copying US designs, implementing them as products, manufacturing them at the highest levels of quality, and delivering them > quickly so they could eat up most of the all-important high early-stage profits from these new designs…while the US chip makers were > single-mindedly focused upon beating each other to a pulp, their Japanese counterparts at NEC, Fujitsu, Hitachi, and other companies > had embarked on a systematic program to duplicate the US technology."
+> "Their only competitive advantage against the Japanese was in chip innovation, but the Japanese chip companies had perfected their system of copying US designs, implementing them as products, manufacturing them at the highest levels of quality, and delivering them quickly so they could eat up most of the all-important high early-stage profits from these new designs…while the US chip makers were single-mindedly focused upon beating each other to a pulp, their Japanese counterparts at NEC, Fujitsu, Hitachi, and other companies had embarked on a systematic program to duplicate the US technology."
 
 In Japan it's a lot harder to get by on the back of creativity and innovation. If you're sketching out the design for a data product, they want to know who else has done it and exactly how it was done. Without that kind of proven case-study, they're not going to pay much attention. The teams I've worked with are incredible at implementing a plan, they just don't seem so great at deviating from it. Which sometimes, well really most of the time, needs to happen. 
 
