@@ -4,11 +4,6 @@ author: swheeler
 layout: post
 permalink: /2016/03/07/the-data-scientist-as-mechanic/
 description: "Data science" is a young enough profession that there is still a lot of debates about what data scientists actually do. If we're still having those debates 10 years from now, we'll be in trouble, but for right now I think it's healthy.
-tags:
- - data science
- - engineering
- - analysis
- 
 ---
 
 "Data science" is a young enough profession that there is still a lot of debates about what data scientists actually do. If we're still having those debates 10 years from now, we'll be in trouble, but for right now I think it's healthy.
