@@ -2,7 +2,7 @@
 title: Data and the end of policy
 author: swheeler
 layout: post
-permalink: /2014/10/24/data-and-the-end-of-policy/
+permalink: /2016/03/07/the-data-scientist-as-mechanic/
 description: Last night I had the pleasure of attending a reception in honor of Heiner Bielefeldt, Special Rapporteur on Freedom of Religion or Belief for the United Nations. Bielefeldt recently released a report about relgious freedom in the workplace and the reception was a chance for him to talk about that report in a less formal setting as well as to hear commentary from a variety of interested parties.
 ---
 
