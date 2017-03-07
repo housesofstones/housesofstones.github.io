@@ -4,7 +4,7 @@ author: Schaun Wheeler
 layout: page
 ---
 <p style="text-align: left; font-size: 15px;" id="swheeler">
-  <strong>Schaun Wheeler</strong> | Data Scientist, <a href="http://infusive.com/">Infusive</a>
+  <strong>Schaun Wheeler</strong> | Managing Director of Data Science, <a href="http://successacademies.org/">Success Academy Charter Schools</a>
 </p>
 
 <p style="text-align: left; font-size: 15px;">
