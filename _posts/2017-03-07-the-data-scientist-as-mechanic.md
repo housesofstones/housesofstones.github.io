@@ -3,10 +3,10 @@ title: The data-scientist-as-mechanic
 author: swheeler
 layout: post
 permalink: /2017/03/07/the-data-scientist-as-mechanic/
-description: Data science is a young enough profession that there is still a lot of debates about what data scientists actually do. If we're still having those debates 10 years from now, we'll be in trouble, but for right now I think it's healthy.
+description: Data science is a young enough profession that there are still a lot of debates about what data scientists actually do. If we're still having those debates 10 years from now, we'll be in trouble, but for right now I think it's healthy.
 ---
 
-"Data science" is a young enough profession that there is still a lot of debates about what data scientists actually do. If we're still having those debates 10 years from now, we'll be in trouble, but for right now I think it's healthy.
+"Data science" is a young enough profession that there are still a lot of debates about what data scientists actually do. If we're still having those debates 10 years from now, we'll be in trouble, but for right now I think it's healthy.
 
 [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) is useful for beginning a conversation about data science, but becomes less useful as the conversation shifts questions of how to hire a data scientist or set up a standing data science capability within a company. Conway's diagram shows  data science as the intersection of statistics, software development, and substantive expertise. Practical hiring and implementation needs raises the question of just how big that intersection is. If you read job descriptions for data scientist positions,it's common to see people say they want a "data scientist" when they really want a statistician who can code just a little bit or a software developer who can fit a model or a coder who has in-depth knowledge of a particular industry - all asking for a different sized and shaped intersection of essentially the same three skills sets.
 
