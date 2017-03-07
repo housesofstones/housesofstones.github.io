@@ -1,5 +1,5 @@
 ---
-title: The data scientist as mechanic
+title: The data-scientist-as-mechanic
 author: swheeler
 layout: post
 permalink: /2016/03/07/the-data-scientist-as-mechanic/
