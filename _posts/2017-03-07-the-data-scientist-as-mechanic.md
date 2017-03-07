@@ -1,9 +1,9 @@
 ---
-title: Data and the end of policy
+title: The data-scientist-as-mechanic
 author: swheeler
 layout: post
 permalink: /2016/03/07/the-data-scientist-as-mechanic/
-description: Last night I had the pleasure of attending a reception in honor of Heiner Bielefeldt, Special Rapporteur on Freedom of Religion or Belief for the United Nations. Bielefeldt recently released a report about relgious freedom in the workplace and the reception was a chance for him to talk about that report in a less formal setting as well as to hear commentary from a variety of interested parties.
+description: "Data science" is a young enough profession that there is still a lot of debates about what data scientists actually do. If we're still having those debates 10 years from now, we'll be in trouble, but for right now I think it's healthy.
 ---
 
 "Data science" is a young enough profession that there is still a lot of debates about what data scientists actually do. If we're still having those debates 10 years from now, we'll be in trouble, but for right now I think it's healthy.
